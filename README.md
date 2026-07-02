@@ -37,6 +37,23 @@ PKP version (`stable-3_5_0`, `stable-3_4_0`, …) and installable packages under
 
 Each repository's README has full installation, configuration and credits.
 
+## Downloads
+
+Direct installable packages (`.tar.gz`). Pick the one matching your OJS/OMP version and
+upload it via **Settings → Website → Plugins → Upload A New Plugin**.
+
+| Plugin | Software | OJS/OMP 3.5 | OJS/OMP 3.4 |
+|--------|----------|-------------|-------------|
+| viewcounter | OJS | [⬇ 1.2.0.0](https://github.com/OJSBR/viewcounter/releases/download/1.2.0.0/viewcounter-1.2.0.0.tar.gz) | [⬇ 1.1.0.0](https://github.com/OJSBR/viewcounter/releases/download/1.1.0.0/viewcounter-1.1.0.0.tar.gz) |
+| mostRead | OJS | [⬇ 3.5.0.1](https://github.com/OJSBR/mostRead/releases/download/3.5.0.1/mostRead-3.5.0.1.tar.gz) | [⬇ 3.4.0.1](https://github.com/OJSBR/mostRead/releases/download/3.4.0.1/mostRead-3.4.0.1.tar.gz) |
+| whatsAppContributor | OJS | [⬇ 1.1.0.0](https://github.com/OJSBR/whatsAppContributor/releases/download/1.1.0.0/whatsAppContributor-1.1.0.0.tar.gz) | [⬇ 1.0.0.0](https://github.com/OJSBR/whatsAppContributor/releases/download/1.0.0.0/whatsAppContributor-1.0.0.0.tar.gz) |
+| doiInSummary | OJS | [⬇ 3.5.0.1](https://github.com/OJSBR/doiInSummary/releases/download/3.5.0.1/doiInSummary-3.5.0.1.tar.gz) | [⬇ 3.4.0.1](https://github.com/OJSBR/doiInSummary/releases/download/3.4.0.1/doiInSummary-3.4.0.1.tar.gz) |
+| ojsbrFilenameRename | OJS | [⬇ 1.1.0.0](https://github.com/OJSBR/ojsbrFilenameRename/releases/download/1.1.0.0-ojs3.5/ojsbrFilenameRename-1.1.0.0-ojs3.5.tar.gz) | [⬇ 1.1.0.0](https://github.com/OJSBR/ojsbrFilenameRename/releases/download/1.1.0.0-ojs3.4/ojsbrFilenameRename-1.1.0.0-ojs3.4.tar.gz) |
+| customMetadata | OMP | [⬇ 1.0.0.0](https://github.com/OJSBR/customMetadata/releases/download/1.0.0.0-omp3.5/customMetadata-1.0.0.0-omp3.5.tar.gz) | [⬇ 1.0.0.0](https://github.com/OJSBR/customMetadata/releases/download/1.0.0.0-omp3.4/customMetadata-1.0.0.0-omp3.4.tar.gz) |
+| crossref | OMP | [⬇ 1.0.0.0](https://github.com/OJSBR/crossref/releases/download/1.0.0.0-omp3.5/crossref-1.0.0.0-omp3.5.tar.gz) | [⬇ 1.0.0.0](https://github.com/OJSBR/crossref/releases/download/1.0.0.0-omp3.4/crossref-1.0.0.0-omp3.4.tar.gz) |
+
+> The **latest** package of each plugin is always on its repository's *Releases* page.
+
 ## Credits
 
 Some plugins were rewritten or adapted by OJSBR from earlier community work; upstream authors
@@ -73,6 +90,7 @@ suportada do PKP (`stable-3_5_0`, `stable-3_4_0`, …) e pacotes instaláveis em
 3. Como alternativa, clone a branch da sua versão direto em `plugins/generic/` (ou
    `plugins/blocks/` para plugins de bloco).
 
+Links diretos de download de cada versão estão na tabela **[Downloads](#downloads)** acima.
 Cada repositório traz README completo com instalação, configuração e créditos.
 
 ### Créditos
