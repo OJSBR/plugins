@@ -16,15 +16,15 @@ PKP version (`stable-3_5_0`, `stable-3_4_0`, …) and installable packages under
 | [viewcounter](https://github.com/OJSBR/viewcounter) | generic | Shows each article's abstract views and downloads on summaries and article pages | 3.4 · 3.5 |
 | [mostRead](https://github.com/OJSBR/mostRead) | block | Sidebar block with the most-read articles of a time window | 3.4 · 3.5 |
 | [whatsAppContributor](https://github.com/OJSBR/whatsAppContributor) | generic | Adds a Phone/WhatsApp (E.164) field to the contributor form | 3.4 · 3.5 |
-| [doiInSummary](https://github.com/OJSBR/doiInSummary) | generic | Shows the article DOI in the issue summary and journal home page | 3.5 |
-| [ojsbrFilenameRename](https://github.com/OJSBR/ojsbrFilenameRename) | generic | Renames the file delivered on download (configurable pattern) | 3.4 · 3.5 · *(publishing soon)* |
+| [doiInSummary](https://github.com/OJSBR/doiInSummary) | generic | Shows the article DOI in the issue summary and journal home page | 3.4 · 3.5 |
+| [ojsbrFilenameRename](https://github.com/OJSBR/ojsbrFilenameRename) | generic | Renames the file delivered on download (configurable pattern) | 3.4 · 3.5 |
 
 ### OMP (Open Monograph Press)
 
 | Plugin | Type | What it does | Versions |
 |--------|------|--------------|----------|
-| [customMetadata](https://github.com/OJSBR/customMetadata) | generic | Configurable extra metadata fields on the publication Metadata tab | 3.4 |
-| [crossref](https://github.com/OJSBR/crossref) | generic | Crossref DOI registration/export for monographs and chapters (fills a gap OMP core lacks) | 3.5 |
+| [customMetadata](https://github.com/OJSBR/customMetadata) | generic | Configurable extra metadata fields on the publication Metadata tab | 3.4 · 3.5 |
+| [crossref](https://github.com/OJSBR/crossref) | generic | Crossref DOI registration/export for monographs and chapters (fills a gap OMP core lacks) | 3.4 · 3.5 |
 
 ## Installing a plugin
 
