@@ -19,6 +19,7 @@ PKP version (`stable-3_5_0`, `stable-3_4_0`, …) and installable packages under
 | [doiInSummary](https://github.com/OJSBR/doiInSummary) | generic | Shows the article DOI in the issue summary and journal home page | 3.4 · 3.5 |
 | [ojsbrFilenameRename](https://github.com/OJSBR/ojsbrFilenameRename) | generic | Renames the file delivered on download (configurable pattern) | 3.4 · 3.5 |
 | [orcidManualEntry](https://github.com/OJSBR/orcidManualEntry) | generic | Restores a manual ORCID field when ORCID OAuth is not configured (authenticated ORCID stays recommended) | 3.5 |
+| [reviewerRecommendationManager](https://github.com/OJSBR/reviewerRecommendationManager) | generic | Rename (multilingual), reorder and disable reviewer recommendations without patching core, preserving review history | 3.5 |
 
 ### OMP (Open Monograph Press)
 
@@ -51,6 +52,7 @@ upload it via **Settings → Website → Plugins → Upload A New Plugin**.
 | doiInSummary | OJS | [⬇ 3.5.0.1](https://github.com/OJSBR/doiInSummary/releases/download/3.5.0.1/doiInSummary-3.5.0.1.tar.gz) | [⬇ 3.4.0.1](https://github.com/OJSBR/doiInSummary/releases/download/3.4.0.1/doiInSummary-3.4.0.1.tar.gz) |
 | ojsbrFilenameRename | OJS | [⬇ 1.1.0.0](https://github.com/OJSBR/ojsbrFilenameRename/releases/download/1.1.0.0-ojs3.5/ojsbrFilenameRename-1.1.0.0-ojs3.5.tar.gz) | [⬇ 1.1.0.0](https://github.com/OJSBR/ojsbrFilenameRename/releases/download/1.1.0.0-ojs3.4/ojsbrFilenameRename-1.1.0.0-ojs3.4.tar.gz) |
 | orcidManualEntry | OJS | [⬇ 1.0.0.0](https://github.com/OJSBR/orcidManualEntry/releases/download/1.0.0.0/orcidManualEntry-1.0.0.0.tar.gz) | — |
+| reviewerRecommendationManager | OJS | [⬇ 1.0.0.0](https://github.com/OJSBR/reviewerRecommendationManager/releases/download/1.0.0.0/reviewerRecommendationManager-1.0.0.0.tar.gz) | — |
 | customMetadata | OMP | [⬇ 1.0.0.0](https://github.com/OJSBR/customMetadata/releases/download/1.0.0.0-omp3.5/customMetadata-1.0.0.0-omp3.5.tar.gz) | [⬇ 1.0.0.0](https://github.com/OJSBR/customMetadata/releases/download/1.0.0.0-omp3.4/customMetadata-1.0.0.0-omp3.4.tar.gz) |
 | crossref | OMP | [⬇ 1.0.0.0](https://github.com/OJSBR/crossref/releases/download/1.0.0.0-omp3.5/crossref-1.0.0.0-omp3.5.tar.gz) | [⬇ 1.0.0.0](https://github.com/OJSBR/crossref/releases/download/1.0.0.0-omp3.4/crossref-1.0.0.0-omp3.4.tar.gz) |
 
