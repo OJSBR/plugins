@@ -20,6 +20,7 @@ PKP version (`stable-3_5_0`, `stable-3_4_0`, …) and installable packages under
 | [ojsbrFilenameRename](https://github.com/OJSBR/ojsbrFilenameRename) | generic | Renames the file delivered on download (configurable pattern) | 3.4 · 3.5 |
 | [orcidManualEntry](https://github.com/OJSBR/orcidManualEntry) | generic | Restores a manual ORCID field when ORCID OAuth is not configured (authenticated ORCID stays recommended) | 3.5 |
 | [reviewerRecommendationManager](https://github.com/OJSBR/reviewerRecommendationManager) | generic | Rename (multilingual), reorder and disable reviewer recommendations without patching core, preserving review history | 3.4 · 3.5 |
+| [accessibility](https://github.com/OJSBR/accessibility) | block | Sidebar accessibility controls for readers: zoom in/out, high-contrast toggle and reset (preferences persist across pages) | 3.3 · 3.4 · 3.5 |
 
 ### OMP (Open Monograph Press)
 
@@ -44,17 +45,18 @@ Each repository's README has full installation, configuration and credits.
 Direct installable packages (`.tar.gz`). Pick the one matching your OJS/OMP version and
 upload it via **Settings → Website → Plugins → Upload A New Plugin**.
 
-| Plugin | Software | OJS/OMP 3.5 | OJS/OMP 3.4 |
-|--------|----------|-------------|-------------|
-| viewcounter | OJS | [⬇ 1.2.0.0](https://github.com/OJSBR/viewcounter/releases/download/1.2.0.0/viewcounter-1.2.0.0.tar.gz) | [⬇ 1.1.0.0](https://github.com/OJSBR/viewcounter/releases/download/1.1.0.0/viewcounter-1.1.0.0.tar.gz) |
-| mostRead | OJS | [⬇ 3.5.0.1](https://github.com/OJSBR/mostRead/releases/download/3.5.0.1/mostRead-3.5.0.1.tar.gz) | [⬇ 3.4.0.1](https://github.com/OJSBR/mostRead/releases/download/3.4.0.1/mostRead-3.4.0.1.tar.gz) |
-| whatsAppContributor | OJS | [⬇ 1.1.0.0](https://github.com/OJSBR/whatsAppContributor/releases/download/1.1.0.0/whatsAppContributor-1.1.0.0.tar.gz) | [⬇ 1.0.0.0](https://github.com/OJSBR/whatsAppContributor/releases/download/1.0.0.0/whatsAppContributor-1.0.0.0.tar.gz) |
-| doiInSummary | OJS | [⬇ 3.5.0.1](https://github.com/OJSBR/doiInSummary/releases/download/3.5.0.1/doiInSummary-3.5.0.1.tar.gz) | [⬇ 3.4.0.1](https://github.com/OJSBR/doiInSummary/releases/download/3.4.0.1/doiInSummary-3.4.0.1.tar.gz) |
-| ojsbrFilenameRename | OJS | [⬇ 1.1.0.0](https://github.com/OJSBR/ojsbrFilenameRename/releases/download/1.1.0.0-ojs3.5/ojsbrFilenameRename-1.1.0.0-ojs3.5.tar.gz) | [⬇ 1.1.0.0](https://github.com/OJSBR/ojsbrFilenameRename/releases/download/1.1.0.0-ojs3.4/ojsbrFilenameRename-1.1.0.0-ojs3.4.tar.gz) |
-| orcidManualEntry | OJS | [⬇ 1.0.0.0](https://github.com/OJSBR/orcidManualEntry/releases/download/1.0.0.0/orcidManualEntry-1.0.0.0.tar.gz) | — |
-| reviewerRecommendationManager | OJS | [⬇ 1.0.2.0](https://github.com/OJSBR/reviewerRecommendationManager/releases/download/1.0.2.0/reviewerRecommendationManager-1.0.2.0.tar.gz) | [⬇ 1.0.2.0-ojs3.4](https://github.com/OJSBR/reviewerRecommendationManager/releases/download/1.0.2.0-ojs3.4/reviewerRecommendationManager-1.0.2.0-ojs3.4.tar.gz) |
-| customMetadata | OMP | [⬇ 1.0.0.0](https://github.com/OJSBR/customMetadata/releases/download/1.0.0.0-omp3.5/customMetadata-1.0.0.0-omp3.5.tar.gz) | [⬇ 1.0.0.0](https://github.com/OJSBR/customMetadata/releases/download/1.0.0.0-omp3.4/customMetadata-1.0.0.0-omp3.4.tar.gz) |
-| crossref | OMP | [⬇ 1.0.0.0](https://github.com/OJSBR/crossref/releases/download/1.0.0.0-omp3.5/crossref-1.0.0.0-omp3.5.tar.gz) | [⬇ 1.0.0.0](https://github.com/OJSBR/crossref/releases/download/1.0.0.0-omp3.4/crossref-1.0.0.0-omp3.4.tar.gz) |
+| Plugin | Software | OJS/OMP 3.5 | OJS/OMP 3.4 | OJS 3.3 |
+|--------|----------|-------------|-------------|---------|
+| viewcounter | OJS | [⬇ 1.2.0.0](https://github.com/OJSBR/viewcounter/releases/download/1.2.0.0/viewcounter-1.2.0.0.tar.gz) | [⬇ 1.1.0.0](https://github.com/OJSBR/viewcounter/releases/download/1.1.0.0/viewcounter-1.1.0.0.tar.gz) | — |
+| mostRead | OJS | [⬇ 3.5.0.1](https://github.com/OJSBR/mostRead/releases/download/3.5.0.1/mostRead-3.5.0.1.tar.gz) | [⬇ 3.4.0.1](https://github.com/OJSBR/mostRead/releases/download/3.4.0.1/mostRead-3.4.0.1.tar.gz) | — |
+| whatsAppContributor | OJS | [⬇ 1.1.0.0](https://github.com/OJSBR/whatsAppContributor/releases/download/1.1.0.0/whatsAppContributor-1.1.0.0.tar.gz) | [⬇ 1.0.0.0](https://github.com/OJSBR/whatsAppContributor/releases/download/1.0.0.0/whatsAppContributor-1.0.0.0.tar.gz) | — |
+| doiInSummary | OJS | [⬇ 3.5.0.1](https://github.com/OJSBR/doiInSummary/releases/download/3.5.0.1/doiInSummary-3.5.0.1.tar.gz) | [⬇ 3.4.0.1](https://github.com/OJSBR/doiInSummary/releases/download/3.4.0.1/doiInSummary-3.4.0.1.tar.gz) | — |
+| ojsbrFilenameRename | OJS | [⬇ 1.1.0.0](https://github.com/OJSBR/ojsbrFilenameRename/releases/download/1.1.0.0-ojs3.5/ojsbrFilenameRename-1.1.0.0-ojs3.5.tar.gz) | [⬇ 1.1.0.0](https://github.com/OJSBR/ojsbrFilenameRename/releases/download/1.1.0.0-ojs3.4/ojsbrFilenameRename-1.1.0.0-ojs3.4.tar.gz) | — |
+| orcidManualEntry | OJS | [⬇ 1.0.0.0](https://github.com/OJSBR/orcidManualEntry/releases/download/1.0.0.0/orcidManualEntry-1.0.0.0.tar.gz) | — | — |
+| reviewerRecommendationManager | OJS | [⬇ 1.0.2.0](https://github.com/OJSBR/reviewerRecommendationManager/releases/download/1.0.2.0/reviewerRecommendationManager-1.0.2.0.tar.gz) | [⬇ 1.0.2.0-ojs3.4](https://github.com/OJSBR/reviewerRecommendationManager/releases/download/1.0.2.0-ojs3.4/reviewerRecommendationManager-1.0.2.0-ojs3.4.tar.gz) | — |
+| accessibility | OJS | [⬇ 1.0.0.0](https://github.com/OJSBR/accessibility/releases/download/1.0.0.0/accessibility-1.0.0.0.tar.gz) | [⬇ 1.0.0.0-ojs3.4](https://github.com/OJSBR/accessibility/releases/download/1.0.0.0-ojs3.4/accessibility-1.0.0.0-ojs3.4.tar.gz) | [⬇ 1.0.0.0-ojs3.3](https://github.com/OJSBR/accessibility/releases/download/1.0.0.0-ojs3.3/accessibility-1.0.0.0-ojs3.3.tar.gz) |
+| customMetadata | OMP | [⬇ 1.0.0.0](https://github.com/OJSBR/customMetadata/releases/download/1.0.0.0-omp3.5/customMetadata-1.0.0.0-omp3.5.tar.gz) | [⬇ 1.0.0.0](https://github.com/OJSBR/customMetadata/releases/download/1.0.0.0-omp3.4/customMetadata-1.0.0.0-omp3.4.tar.gz) | — |
+| crossref | OMP | [⬇ 1.0.0.0](https://github.com/OJSBR/crossref/releases/download/1.0.0.0-omp3.5/crossref-1.0.0.0-omp3.5.tar.gz) | [⬇ 1.0.0.0](https://github.com/OJSBR/crossref/releases/download/1.0.0.0-omp3.4/crossref-1.0.0.0-omp3.4.tar.gz) | — |
 
 > The **latest** package of each plugin is always on its repository's *Releases* page.
 
