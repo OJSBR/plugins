@@ -21,6 +21,7 @@ PKP version (`stable-3_5_0`, `stable-3_4_0`, …) and installable packages under
 | [orcidManualEntry](https://github.com/OJSBR/orcidManualEntry) | generic | Restores a manual ORCID field when ORCID OAuth is not configured (authenticated ORCID stays recommended) | 3.5 |
 | [reviewerRecommendationManager](https://github.com/OJSBR/reviewerRecommendationManager) | generic | Rename (multilingual), reorder and disable reviewer recommendations without patching core, preserving review history | 3.4 · 3.5 |
 | [accessibility](https://github.com/OJSBR/accessibility) | block | Sidebar accessibility controls for readers: zoom in/out, high-contrast toggle and reset (preferences persist across pages) | 3.3 · 3.4 · 3.5 |
+| [vlibras](https://github.com/OJSBR/vlibras) | block | Embeds the VLibras widget (the Brazilian government's Portuguese→Libras sign-language translator) with its floating avatar | 3.3 · 3.4 · 3.5 |
 
 ### OMP (Open Monograph Press)
 
@@ -55,6 +56,7 @@ upload it via **Settings → Website → Plugins → Upload A New Plugin**.
 | orcidManualEntry | OJS | [⬇ 1.0.0.0](https://github.com/OJSBR/orcidManualEntry/releases/download/1.0.0.0/orcidManualEntry-1.0.0.0.tar.gz) | — | — |
 | reviewerRecommendationManager | OJS | [⬇ 1.0.2.0](https://github.com/OJSBR/reviewerRecommendationManager/releases/download/1.0.2.0/reviewerRecommendationManager-1.0.2.0.tar.gz) | [⬇ 1.0.2.0-ojs3.4](https://github.com/OJSBR/reviewerRecommendationManager/releases/download/1.0.2.0-ojs3.4/reviewerRecommendationManager-1.0.2.0-ojs3.4.tar.gz) | — |
 | accessibility | OJS | [⬇ 1.0.0.0](https://github.com/OJSBR/accessibility/releases/download/1.0.0.0/accessibility-1.0.0.0.tar.gz) | [⬇ 1.0.0.0-ojs3.4](https://github.com/OJSBR/accessibility/releases/download/1.0.0.0-ojs3.4/accessibility-1.0.0.0-ojs3.4.tar.gz) | [⬇ 1.0.0.0-ojs3.3](https://github.com/OJSBR/accessibility/releases/download/1.0.0.0-ojs3.3/accessibility-1.0.0.0-ojs3.3.tar.gz) |
+| vlibras | OJS | [⬇ 1.0.0.0](https://github.com/OJSBR/vlibras/releases/download/1.0.0.0/vlibras-1.0.0.0.tar.gz) | [⬇ 1.0.0.0-ojs3.4](https://github.com/OJSBR/vlibras/releases/download/1.0.0.0-ojs3.4/vlibras-1.0.0.0-ojs3.4.tar.gz) | [⬇ 1.0.0.0-ojs3.3](https://github.com/OJSBR/vlibras/releases/download/1.0.0.0-ojs3.3/vlibras-1.0.0.0-ojs3.3.tar.gz) |
 | customMetadata | OMP | [⬇ 1.0.0.0](https://github.com/OJSBR/customMetadata/releases/download/1.0.0.0-omp3.5/customMetadata-1.0.0.0-omp3.5.tar.gz) | [⬇ 1.0.0.0](https://github.com/OJSBR/customMetadata/releases/download/1.0.0.0-omp3.4/customMetadata-1.0.0.0-omp3.4.tar.gz) | — |
 | crossref | OMP | [⬇ 1.0.0.0](https://github.com/OJSBR/crossref/releases/download/1.0.0.0-omp3.5/crossref-1.0.0.0-omp3.5.tar.gz) | [⬇ 1.0.0.0](https://github.com/OJSBR/crossref/releases/download/1.0.0.0-omp3.4/crossref-1.0.0.0-omp3.4.tar.gz) | — |
 
