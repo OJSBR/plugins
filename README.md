@@ -20,8 +20,12 @@ PKP version (`stable-3_5_0`, `stable-3_4_0`, …) and installable packages under
 | [ojsbrFilenameRename](https://github.com/OJSBR/ojsbrFilenameRename) | generic | Renames the file delivered on download (configurable pattern) | 3.4 · 3.5 |
 | [orcidManualEntry](https://github.com/OJSBR/orcidManualEntry) | generic | Restores a manual ORCID field when ORCID OAuth is not configured (authenticated ORCID stays recommended) | 3.5 |
 | [reviewerRecommendationManager](https://github.com/OJSBR/reviewerRecommendationManager) | generic | Rename (multilingual), reorder and disable reviewer recommendations without patching core, preserving review history | 3.4 · 3.5 |
+| [reviewerDirectory](https://github.com/OJSBR/reviewerDirectory) | generic | Editor-only directory of reviewers (profiles + review stats, active-submission IDs, configurable columns, Excel export) and a period/issue reviewer roster (nominata) | 3.5 |
+| [ojsbr-webhook](https://github.com/OJSBR/ojsbr-webhook) | generic | Sends HTTP webhooks when submissions are created and articles published | 3.4 |
 | [accessibility](https://github.com/OJSBR/accessibility) | block | Sidebar accessibility controls for readers: zoom in/out, high-contrast toggle and reset (preferences persist across pages) | 3.3 · 3.4 · 3.5 |
+| [languageToggleByFlag](https://github.com/OJSBR/languageToggleByFlag) | block | Sidebar language switcher with country flags (also works on OMP/OPS); adapted for 3.5 by OJSBR, original by Lepidus Tecnologia | 3.5 |
 | [vlibras](https://github.com/OJSBR/vlibras) | block | Embeds the VLibras widget (the Brazilian government's Portuguese→Libras sign-language translator) with its floating avatar | 3.3 · 3.4 · 3.5 |
+| [pln](https://github.com/OJSBR/pln) | generic | PKP Preservation Network (PLN / PKP PN) — unofficial OJS 3.5 build (based on pkp/pln#117), maintained until the official release | 3.5 |
 
 ### OMP (Open Monograph Press)
 
@@ -29,6 +33,7 @@ PKP version (`stable-3_5_0`, `stable-3_4_0`, …) and installable packages under
 |--------|------|--------------|----------|
 | [customMetadata](https://github.com/OJSBR/customMetadata) | generic | Configurable extra metadata fields on the publication Metadata tab | 3.4 · 3.5 |
 | [crossref](https://github.com/OJSBR/crossref) | generic | Crossref DOI registration/export for monographs and chapters (fills a gap OMP core lacks) | 3.4 · 3.5 |
+| [assignEditorGeneral](https://github.com/OJSBR/assignEditorGeneral) | generic | Automatically assigns all active General Editors to each new submission | 3.5 |
 
 ## Installing a plugin
 
@@ -57,8 +62,13 @@ upload it via **Settings → Website → Plugins → Upload A New Plugin**.
 | reviewerRecommendationManager | OJS | [⬇ 1.0.2.0](https://github.com/OJSBR/reviewerRecommendationManager/releases/download/1.0.2.0/reviewerRecommendationManager-1.0.2.0.tar.gz) | [⬇ 1.0.2.0-ojs3.4](https://github.com/OJSBR/reviewerRecommendationManager/releases/download/1.0.2.0-ojs3.4/reviewerRecommendationManager-1.0.2.0-ojs3.4.tar.gz) | — |
 | accessibility | OJS | [⬇ 1.0.0.0](https://github.com/OJSBR/accessibility/releases/download/1.0.0.0/accessibility-1.0.0.0.tar.gz) | [⬇ 1.0.0.0-ojs3.4](https://github.com/OJSBR/accessibility/releases/download/1.0.0.0-ojs3.4/accessibility-1.0.0.0-ojs3.4.tar.gz) | [⬇ 1.0.0.0-ojs3.3](https://github.com/OJSBR/accessibility/releases/download/1.0.0.0-ojs3.3/accessibility-1.0.0.0-ojs3.3.tar.gz) |
 | vlibras | OJS | [⬇ 1.0.0.0](https://github.com/OJSBR/vlibras/releases/download/1.0.0.0/vlibras-1.0.0.0.tar.gz) | [⬇ 1.0.0.0-ojs3.4](https://github.com/OJSBR/vlibras/releases/download/1.0.0.0-ojs3.4/vlibras-1.0.0.0-ojs3.4.tar.gz) | [⬇ 1.0.0.0-ojs3.3](https://github.com/OJSBR/vlibras/releases/download/1.0.0.0-ojs3.3/vlibras-1.0.0.0-ojs3.3.tar.gz) |
+| reviewerDirectory | OJS | [⬇ 1.0.0.0](https://github.com/OJSBR/reviewerDirectory/releases/download/1.0.0.0/reviewerDirectory-1.0.0.0.tar.gz) | — | — |
+| languageToggleByFlag | OJS | [⬇ 3.5.0.0](https://github.com/OJSBR/languageToggleByFlag/releases/download/3.5.0.0/languageToggleByFlag-3.5.0.0.tar.gz) | — | — |
+| pln | OJS | [⬇ 4.0.0.0](https://github.com/OJSBR/pln/releases/download/4.0.0.0-ojs3.5/pln-4.0.0.0-ojs3.5.tar.gz) | — | — |
+| ojsbr-webhook | OJS | — | [⬇ 3.4.build.11](https://github.com/OJSBR/ojsbr-webhook/releases/download/3.4.build.11/ojsbrWebhook-3.4.build.11.tar.gz) | — |
 | customMetadata | OMP | [⬇ 1.0.0.0](https://github.com/OJSBR/customMetadata/releases/download/1.0.0.0-omp3.5/customMetadata-1.0.0.0-omp3.5.tar.gz) | [⬇ 1.0.0.0](https://github.com/OJSBR/customMetadata/releases/download/1.0.0.0-omp3.4/customMetadata-1.0.0.0-omp3.4.tar.gz) | — |
 | crossref | OMP | [⬇ 1.0.0.0](https://github.com/OJSBR/crossref/releases/download/1.0.0.0-omp3.5/crossref-1.0.0.0-omp3.5.tar.gz) | [⬇ 1.0.0.0](https://github.com/OJSBR/crossref/releases/download/1.0.0.0-omp3.4/crossref-1.0.0.0-omp3.4.tar.gz) | — |
+| assignEditorGeneral | OMP | [⬇ 1.0.0.0](https://github.com/OJSBR/assignEditorGeneral/releases/download/1.0.0.0-omp3.5/assignEditorGeneral-1.0.0.0-omp3.5.tar.gz) | — | — |
 
 > The **latest** package of each plugin is always on its repository's *Releases* page.
 
