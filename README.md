@@ -26,6 +26,7 @@ PKP version (`stable-3_5_0`, `stable-3_4_0`, …) and installable packages under
 | [languageToggleByFlag](https://github.com/OJSBR/languageToggleByFlag) | block | Sidebar language switcher with country flags (also works on OMP/OPS); adapted for 3.5 by OJSBR, original by Lepidus Tecnologia | 3.5 |
 | [vlibras](https://github.com/OJSBR/vlibras) | block | Embeds the VLibras widget (the Brazilian government's Portuguese→Libras sign-language translator) with its floating avatar | 3.3 · 3.4 · 3.5 |
 | [pln](https://github.com/OJSBR/pln) | generic | PKP Preservation Network (PLN / PKP PN) — unofficial OJS 3.5 build (based on pkp/pln#117), maintained until the official release | 3.5 |
+| [shariff](https://github.com/OJSBR/shariff) | generic | Privacy-friendly social media share buttons (Shariff) — unofficial OJS/OMP 3.5 build of ojsde/shariff with the Portuguese fixes proposed in ojsde/shariff#54, maintained until the official release | 3.5 |
 
 ### OMP (Open Monograph Press)
 
@@ -65,6 +66,7 @@ upload it via **Settings → Website → Plugins → Upload A New Plugin**.
 | reviewerDirectory | OJS | [⬇ 1.0.0.0](https://github.com/OJSBR/reviewerDirectory/releases/download/1.0.0.0/reviewerDirectory-1.0.0.0.tar.gz) | — | — |
 | languageToggleByFlag | OJS | [⬇ 3.5.0.2](https://github.com/OJSBR/languageToggleByFlag/releases/download/3.5.0.2/languageToggleByFlag-3.5.0.2.tar.gz) | — | — |
 | pln | OJS | [⬇ 4.0.0.0](https://github.com/OJSBR/pln/releases/download/4.0.0.0-ojs3.5/pln-4.0.0.0-ojs3.5.tar.gz) | — | — |
+| shariff | OJS | [⬇ 3.5.1.2](https://github.com/OJSBR/shariff/releases/download/3.5.1.2/shariff-3.5.1.2.tar.gz) | — | — |
 | ojsbr-webhook | OJS | — | [⬇ 3.4.build.11](https://github.com/OJSBR/ojsbr-webhook/releases/download/3.4.build.11/ojsbrWebhook-3.4.build.11.tar.gz) | — |
 | customMetadata | OMP | [⬇ 1.0.0.0](https://github.com/OJSBR/customMetadata/releases/download/1.0.0.0-omp3.5/customMetadata-1.0.0.0-omp3.5.tar.gz) | [⬇ 1.0.0.0](https://github.com/OJSBR/customMetadata/releases/download/1.0.0.0-omp3.4/customMetadata-1.0.0.0-omp3.4.tar.gz) | — |
 | crossref | OMP | [⬇ 1.0.0.0](https://github.com/OJSBR/crossref/releases/download/1.0.0.0-omp3.5/crossref-1.0.0.0-omp3.5.tar.gz) | [⬇ 1.0.0.0](https://github.com/OJSBR/crossref/releases/download/1.0.0.0-omp3.4/crossref-1.0.0.0-omp3.4.tar.gz) | — |
