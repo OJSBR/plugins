@@ -76,7 +76,7 @@ upload it via **Settings → Website → Plugins → Upload A New Plugin**.
 | customMetadata | OMP | [⬇ 1.0.0.2](https://github.com/OJSBR/customMetadata/releases/download/1.0.0.2-omp3.5/customMetadata-1.0.0.2-omp3.5.tar.gz) | [⬇ 1.0.0.1](https://github.com/OJSBR/customMetadata/releases/download/1.0.0.1-omp3.4/customMetadata-1.0.0.1-omp3.4.tar.gz) | — |
 | crossref | OMP | [⬇ 1.0.0.2](https://github.com/OJSBR/crossref/releases/download/1.0.0.2-omp3.5/crossref-1.0.0.2-omp3.5.tar.gz) | [⬇ 1.0.0.1](https://github.com/OJSBR/crossref/releases/download/1.0.0.1-omp3.4/crossref-1.0.0.1-omp3.4.tar.gz) | — |
 | assignEditorGeneral | OMP | [⬇ 1.0.0.2](https://github.com/OJSBR/assignEditorGeneral/releases/download/1.0.0.2-omp3.5/assignEditorGeneral-1.0.0.2-omp3.5.tar.gz) | — | — |
-| keywordCloudClassicBeautiful | OJS | [⬇ 1.0.0.0](https://github.com/OJSBR/keywordCloudClassicBeautiful/releases/download/1.0.0.0/keywordCloudClassicBeautiful-1.0.0.0.tar.gz) | — | — |
+| keywordCloudClassicBeautiful | OJS | [⬇ 1.0.0.1](https://github.com/OJSBR/keywordCloudClassicBeautiful/releases/download/1.0.0.1/keywordCloudClassicBeautiful-1.0.0.1.tar.gz) | — | — |
 
 > The **latest** package of each plugin is always on its repository's *Releases* page.
 
