@@ -1,0 +1,36 @@
+name: Check locales
+
+# Every OJSBR plugin is a showcase for an international community, so every
+# translatable plugin must ship a European Portuguese translation (locale/pt/,
+# or locale/pt_PT/ on OJS 3.3) next to Brazilian Portuguese and the other
+# standard locales. This job enforces the European Portuguese part across the
+# whole organization, so a plugin published without it is caught here instead of
+# by a Portuguese-speaking reader.
+
+on:
+  schedule:
+    # Mondays, 09:15 UTC
+    - cron: '15 9 * * 1'
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/check-locales.py'
+      - '.github/workflows/check-locales.yml'
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Check European Portuguese locale
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/check-locales.py
