@@ -22,6 +22,7 @@ PKP version (`stable-3_5_0`, `stable-3_4_0`, …) and installable packages under
 | [reviewerRecommendationManager](https://github.com/OJSBR/reviewerRecommendationManager) | generic | Rename (multilingual), reorder and disable reviewer recommendations without patching core, preserving review history | 3.4 · 3.5 |
 | [staticEditorialTeam](https://github.com/OJSBR/staticEditorialTeam) | generic | Brings back the static Editorial Team page: shows the journal's free-text setting instead of the dynamic masthead listing introduced in 3.5 | 3.5 |
 | [classicUserEditor](https://github.com/OJSBR/classicUserEditor) | generic | Restores direct editing of users (given name, family name, email and roles) for managers and administrators, alongside the 3.5 invitation manager | 3.5 |
+| [authorContributorEditor](https://github.com/OJSBR/authorContributorEditor) | generic | Gives authors back the editing of the contributor list of their own submissions when their user group is allowed to edit submission metadata, as in 3.3/3.4 | 3.5 |
 | [reviewerDirectory](https://github.com/OJSBR/reviewerDirectory) | generic | Editor-only directory of reviewers (profiles + review stats, active-submission IDs, configurable columns, Excel export) and a period/issue reviewer roster (nominata) | 3.5 |
 | [ojsbr-webhook](https://github.com/OJSBR/ojsbr-webhook) | generic | Sends HTTP webhooks when submissions are created and articles published | 3.4 |
 | [accessibility](https://github.com/OJSBR/accessibility) | block | Sidebar accessibility controls for readers: zoom in/out, high-contrast toggle and reset (preferences persist across pages) | 3.3 · 3.4 · 3.5 |
@@ -68,6 +69,7 @@ upload it via **Settings → Website → Plugins → Upload A New Plugin**.
 | vlibras | OJS | [⬇ 1.0.0.1](https://github.com/OJSBR/vlibras/releases/download/1.0.0.1/vlibras-1.0.0.1.tar.gz) | [⬇ 1.0.0.1-ojs3.4](https://github.com/OJSBR/vlibras/releases/download/1.0.0.1-ojs3.4/vlibras-1.0.0.1-ojs3.4.tar.gz) | [⬇ 1.0.0.1-ojs3.3](https://github.com/OJSBR/vlibras/releases/download/1.0.0.1-ojs3.3/vlibras-1.0.0.1-ojs3.3.tar.gz) |
 | staticEditorialTeam | OJS | [⬇ 1.0.0.1](https://github.com/OJSBR/staticEditorialTeam/releases/download/1.0.0.1/staticEditorialTeam-1.0.0.1.tar.gz) | — | — |
 | classicUserEditor | OJS | [⬇ 1.0.0.1](https://github.com/OJSBR/classicUserEditor/releases/download/1.0.0.1/classicUserEditor-1.0.0.1.tar.gz) | — | — |
+| authorContributorEditor | OJS | [⬇ 1.0.0.0](https://github.com/OJSBR/authorContributorEditor/releases/download/1.0.0.0/authorContributorEditor-1.0.0.0.tar.gz) | — | — |
 | reviewerDirectory | OJS | [⬇ 1.0.0.2](https://github.com/OJSBR/reviewerDirectory/releases/download/1.0.0.2/reviewerDirectory-1.0.0.2.tar.gz) | — | — |
 | languageToggleByFlag | OJS | [⬇ 3.5.0.3](https://github.com/OJSBR/languageToggleByFlag/releases/download/3.5.0.3/languageToggleByFlag-3.5.0.3.tar.gz) | — | — |
 | pln | OJS | [⬇ 4.0.0.0](https://github.com/OJSBR/pln/releases/download/4.0.0.0-ojs3.5/pln-4.0.0.0-ojs3.5.tar.gz) | — | — |
