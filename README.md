@@ -71,7 +71,7 @@ upload it via **Settings → Website → Plugins → Upload A New Plugin**.
 | classicUserEditor | OJS | [⬇ 1.0.0.1](https://github.com/OJSBR/classicUserEditor/releases/download/1.0.0.1/classicUserEditor-1.0.0.1.tar.gz) | — | — |
 | authorContributorEditor | OJS | [⬇ 1.0.0.0](https://github.com/OJSBR/authorContributorEditor/releases/download/1.0.0.0/authorContributorEditor-1.0.0.0.tar.gz) | — | — |
 | reviewerDirectory | OJS | [⬇ 1.0.0.2](https://github.com/OJSBR/reviewerDirectory/releases/download/1.0.0.2/reviewerDirectory-1.0.0.2.tar.gz) | — | — |
-| languageToggleByFlag | OJS | [⬇ 3.5.0.3](https://github.com/OJSBR/languageToggleByFlag/releases/download/3.5.0.3/languageToggleByFlag-3.5.0.3.tar.gz) | — | — |
+| languageToggleByFlag | OJS | [⬇ 3.5.0.4](https://github.com/OJSBR/languageToggleByFlag/releases/download/3.5.0.4/languageToggleByFlag-3.5.0.4.tar.gz) | — | — |
 | pln | OJS | [⬇ 4.0.0.0](https://github.com/OJSBR/pln/releases/download/4.0.0.0-ojs3.5/pln-4.0.0.0-ojs3.5.tar.gz) | — | — |
 | shariff | OJS | [⬇ 3.5.1.2](https://github.com/OJSBR/shariff/releases/download/3.5.1.2/shariff-3.5.1.2.tar.gz) | — | — |
 | ojsbr-webhook | OJS | — | [⬇ 3.4.build.14](https://github.com/OJSBR/ojsbr-webhook/releases/download/3.4.latest/ojsbrWebhook-3.4.build.14.tar.gz) | — |
