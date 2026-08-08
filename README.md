@@ -24,6 +24,7 @@ PKP version (`stable-3_5_0`, `stable-3_4_0`, …) and installable packages under
 | [classicUserEditor](https://github.com/OJSBR/classicUserEditor) | generic | Restores direct editing of users (given name, family name, email and roles) for managers and administrators, alongside the 3.5 invitation manager | 3.5 |
 | [authorContributorEditor](https://github.com/OJSBR/authorContributorEditor) | generic | Gives authors back the editing of the contributor list of their own submissions when their user group is allowed to edit submission metadata, as in 3.3/3.4 | 3.5 |
 | [reviewerDirectory](https://github.com/OJSBR/reviewerDirectory) | generic | Editor-only directory of reviewers (profiles + review stats, active-submission IDs, configurable columns, Excel export) and a period/issue reviewer roster (nominata) | 3.5 |
+| [controlledVocabSplitter](https://github.com/OJSBR/controlledVocabSplitter) | generic | Splits keywords, subjects, disciplines and supporting agencies pasted as a single line into separate terms, in the field and on every save (semicolon, comma or period; keeps legal references and species initials whole) | 3.5 |
 | [ojsbr-webhook](https://github.com/OJSBR/ojsbr-webhook) | generic | Sends HTTP webhooks when submissions are created and articles published | 3.4 |
 | [accessibility](https://github.com/OJSBR/accessibility) | block | Sidebar accessibility controls for readers: zoom in/out, high-contrast toggle and reset (preferences persist across pages) | 3.3 · 3.4 · 3.5 |
 | [languageToggleByFlag](https://github.com/OJSBR/languageToggleByFlag) | block | Sidebar language switcher with country flags (also works on OMP/OPS); adapted for 3.5 by OJSBR, original by Lepidus Tecnologia | 3.5 |
@@ -71,6 +72,7 @@ upload it via **Settings → Website → Plugins → Upload A New Plugin**.
 | classicUserEditor | OJS | [⬇ 1.0.0.1](https://github.com/OJSBR/classicUserEditor/releases/download/1.0.0.1/classicUserEditor-1.0.0.1.tar.gz) | — | — |
 | authorContributorEditor | OJS | [⬇ 1.0.0.0](https://github.com/OJSBR/authorContributorEditor/releases/download/1.0.0.0/authorContributorEditor-1.0.0.0.tar.gz) | — | — |
 | reviewerDirectory | OJS | [⬇ 1.0.0.2](https://github.com/OJSBR/reviewerDirectory/releases/download/1.0.0.2/reviewerDirectory-1.0.0.2.tar.gz) | — | — |
+| controlledVocabSplitter | OJS | [⬇ 1.0.0.0](https://github.com/OJSBR/controlledVocabSplitter/releases/download/1.0.0.0/controlledVocabSplitter-1.0.0.0.tar.gz) | — | — |
 | languageToggleByFlag | OJS | [⬇ 3.5.0.4](https://github.com/OJSBR/languageToggleByFlag/releases/download/3.5.0.4/languageToggleByFlag-3.5.0.4.tar.gz) | — | — |
 | pln | OJS | [⬇ 4.0.0.0](https://github.com/OJSBR/pln/releases/download/4.0.0.0-ojs3.5/pln-4.0.0.0-ojs3.5.tar.gz) | — | — |
 | shariff | OJS | [⬇ 3.5.1.2](https://github.com/OJSBR/shariff/releases/download/3.5.1.2/shariff-3.5.1.2.tar.gz) | — | — |
