@@ -40,6 +40,9 @@ PKP version (`stable-3_5_0`, `stable-3_4_0`, …) and installable packages under
 | [customMetadata](https://github.com/OJSBR/customMetadata) | generic | Configurable extra metadata fields on the publication Metadata tab | 3.4 · 3.5 |
 | [crossref](https://github.com/OJSBR/crossref) | generic | Crossref DOI registration/export for monographs and chapters (fills a gap OMP core lacks) | 3.4 · 3.5 |
 | [assignEditorGeneral](https://github.com/OJSBR/assignEditorGeneral) | generic | Automatically assigns all active General Editors to each new submission | 3.5 |
+| [keywordCloudClassicBeautifulOmp](https://github.com/OJSBR/keywordCloudClassicBeautifulOmp) | block | Packed sidebar keyword cloud of the press's books, sized and coloured by frequency (the classic behaviour restored); self-contained, no CDN; original keywordCloud by PKP/SFU, maintained by Lepidus Tecnologia | 3.5 |
+| [staticEditorialTeamOmp](https://github.com/OJSBR/staticEditorialTeamOmp) | generic | Brings back the static Editorial Team page: shows the press's free-text setting instead of the dynamic masthead listing introduced in 3.5 | 3.5 |
+| [classicUserEditorOmp](https://github.com/OJSBR/classicUserEditorOmp) | generic | Restores direct editing of users (given name, family name, email and roles) for managers and administrators, alongside the 3.5 invitation manager | 3.5 |
 
 ## Installing a plugin
 
@@ -80,6 +83,9 @@ upload it via **Settings → Website → Plugins → Upload A New Plugin**.
 | customMetadata | OMP | [⬇ 1.0.0.2](https://github.com/OJSBR/customMetadata/releases/download/1.0.0.2-omp3.5/customMetadata-1.0.0.2-omp3.5.tar.gz) | [⬇ 1.0.0.1](https://github.com/OJSBR/customMetadata/releases/download/1.0.0.1-omp3.4/customMetadata-1.0.0.1-omp3.4.tar.gz) | — |
 | crossref | OMP | [⬇ 1.0.0.2](https://github.com/OJSBR/crossref/releases/download/1.0.0.2-omp3.5/crossref-1.0.0.2-omp3.5.tar.gz) | [⬇ 1.0.0.1](https://github.com/OJSBR/crossref/releases/download/1.0.0.1-omp3.4/crossref-1.0.0.1-omp3.4.tar.gz) | — |
 | assignEditorGeneral | OMP | [⬇ 1.0.0.2](https://github.com/OJSBR/assignEditorGeneral/releases/download/1.0.0.2-omp3.5/assignEditorGeneral-1.0.0.2-omp3.5.tar.gz) | — | — |
+| keywordCloudClassicBeautifulOmp | OMP | [⬇ 1.0.2.0](https://github.com/OJSBR/keywordCloudClassicBeautifulOmp/releases/download/1.0.2.0-omp3.5/keywordCloudClassicBeautiful-1.0.2.0-omp3.5.tar.gz) | — | — |
+| staticEditorialTeamOmp | OMP | [⬇ 1.0.0.1](https://github.com/OJSBR/staticEditorialTeamOmp/releases/download/1.0.0.1-omp3.5/staticEditorialTeam-1.0.0.1-omp3.5.tar.gz) | — | — |
+| classicUserEditorOmp | OMP | [⬇ 1.0.0.1](https://github.com/OJSBR/classicUserEditorOmp/releases/download/1.0.0.1-omp3.5/classicUserEditor-1.0.0.1-omp3.5.tar.gz) | — | — |
 | keywordCloudClassicBeautiful | OJS | [⬇ 1.0.0.1](https://github.com/OJSBR/keywordCloudClassicBeautiful/releases/download/1.0.0.1/keywordCloudClassicBeautiful-1.0.0.1.tar.gz) | [⬇ 1.0.0.1-ojs3.4](https://github.com/OJSBR/keywordCloudClassicBeautiful/releases/download/1.0.0.1-ojs3.4/keywordCloudClassicBeautiful-1.0.0.1-ojs3.4.tar.gz) | — |
 
 > The **latest** package of each plugin is always on its repository's *Releases* page.
