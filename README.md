@@ -43,6 +43,12 @@ PKP version (`stable-3_5_0`, `stable-3_4_0`, …) and installable packages under
 | [keywordCloudClassicBeautifulOmp](https://github.com/OJSBR/keywordCloudClassicBeautifulOmp) | block | Packed sidebar keyword cloud of the press's books, sized and coloured by frequency (the classic behaviour restored); self-contained, no CDN; original keywordCloud by PKP/SFU, maintained by Lepidus Tecnologia | 3.5 |
 | [staticEditorialTeamOmp](https://github.com/OJSBR/staticEditorialTeamOmp) | generic | Brings back the static Editorial Team page: shows the press's free-text setting instead of the dynamic masthead listing introduced in 3.5 | 3.5 |
 | [classicUserEditorOmp](https://github.com/OJSBR/classicUserEditorOmp) | generic | Restores direct editing of users (given name, family name, email and roles) for managers and administrators, alongside the 3.5 invitation manager | 3.5 |
+| [controlledVocabSplitterOmp](https://github.com/OJSBR/controlledVocabSplitterOmp) | generic | Splits keywords, subjects, disciplines and supporting agencies pasted as a single line into separate terms, in the field and on every save | 3.5 |
+| [ojsbrFilenameRenameOmp](https://github.com/OJSBR/ojsbrFilenameRenameOmp) | generic | Renames the file delivered on download (configurable pattern), without touching the file on disk | 3.5 |
+| [orcidManualEntryOmp](https://github.com/OJSBR/orcidManualEntryOmp) | generic | Restores a manual ORCID field on the contributor form when ORCID OAuth is not configured (authenticated ORCID stays recommended) | 3.5 |
+| [requiredMultilingualMetadataOmp](https://github.com/OJSBR/requiredMultilingualMetadataOmp) | generic | Require the title, abstract and keywords in languages beyond the submission language | 3.5 |
+| [reviewerDirectoryOmp](https://github.com/OJSBR/reviewerDirectoryOmp) | generic | Editor-only directory of reviewers (profiles + review stats) and a per-period or per-series reviewer roster (nominata) | 3.5 |
+| [mostReadOmp](https://github.com/OJSBR/mostReadOmp) | block | Sidebar block with the most-read books of a time window | 3.5 |
 
 ## Installing a plugin
 
@@ -86,6 +92,12 @@ upload it via **Settings → Website → Plugins → Upload A New Plugin**.
 | keywordCloudClassicBeautifulOmp | OMP | [⬇ 1.0.2.0](https://github.com/OJSBR/keywordCloudClassicBeautifulOmp/releases/download/1.0.2.0-omp3.5/keywordCloudClassicBeautiful-1.0.2.0-omp3.5.tar.gz) | — | — |
 | staticEditorialTeamOmp | OMP | [⬇ 1.0.0.1](https://github.com/OJSBR/staticEditorialTeamOmp/releases/download/1.0.0.1-omp3.5/staticEditorialTeam-1.0.0.1-omp3.5.tar.gz) | — | — |
 | classicUserEditorOmp | OMP | [⬇ 1.0.0.1](https://github.com/OJSBR/classicUserEditorOmp/releases/download/1.0.0.1-omp3.5/classicUserEditor-1.0.0.1-omp3.5.tar.gz) | — | — |
+| controlledVocabSplitterOmp | OMP | [⬇ 1.0.0.0](https://github.com/OJSBR/controlledVocabSplitterOmp/releases/download/1.0.0.0-omp3.5/controlledVocabSplitter-1.0.0.0-omp3.5.tar.gz) | — | — |
+| ojsbrFilenameRenameOmp | OMP | [⬇ 1.1.0.2](https://github.com/OJSBR/ojsbrFilenameRenameOmp/releases/download/1.1.0.2-omp3.5/ojsbrFilenameRename-1.1.0.2-omp3.5.tar.gz) | — | — |
+| orcidManualEntryOmp | OMP | [⬇ 1.0.2.0](https://github.com/OJSBR/orcidManualEntryOmp/releases/download/1.0.2.0-omp3.5/orcidManualEntry-1.0.2.0-omp3.5.tar.gz) | — | — |
+| requiredMultilingualMetadataOmp | OMP | [⬇ 1.1.0.1](https://github.com/OJSBR/requiredMultilingualMetadataOmp/releases/download/1.1.0.1-omp3.5/requiredMultilingualMetadata-1.1.0.1-omp3.5.tar.gz) | — | — |
+| reviewerDirectoryOmp | OMP | [⬇ 1.0.0.2](https://github.com/OJSBR/reviewerDirectoryOmp/releases/download/1.0.0.2-omp3.5/reviewerDirectory-1.0.0.2-omp3.5.tar.gz) | — | — |
+| mostReadOmp | OMP | [⬇ 3.5.0.3](https://github.com/OJSBR/mostReadOmp/releases/download/3.5.0.3-omp3.5/mostRead-3.5.0.3-omp3.5.tar.gz) | — | — |
 | keywordCloudClassicBeautiful | OJS | [⬇ 1.0.0.1](https://github.com/OJSBR/keywordCloudClassicBeautiful/releases/download/1.0.0.1/keywordCloudClassicBeautiful-1.0.0.1.tar.gz) | [⬇ 1.0.0.1-ojs3.4](https://github.com/OJSBR/keywordCloudClassicBeautiful/releases/download/1.0.0.1-ojs3.4/keywordCloudClassicBeautiful-1.0.0.1-ojs3.4.tar.gz) | — |
 
 > The **latest** package of each plugin is always on its repository's *Releases* page.
