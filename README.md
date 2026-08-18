@@ -27,6 +27,7 @@ PKP version (`stable-3_5_0`, `stable-3_4_0`, …) and installable packages under
 | [controlledVocabSplitter](https://github.com/OJSBR/controlledVocabSplitter) | generic | Splits keywords, subjects, disciplines and supporting agencies pasted as a single line into separate terms, in the field and on every save (semicolon, comma or period; keeps legal references and species initials whole) | 3.5 |
 | [crossrefConference](https://github.com/OJSBR/crossrefConference) | generic | Deposits DOIs with Crossref as conference proceedings (`<conference>`/`<conference_paper>`) instead of journal records, as a DOI registration agency: event name, edition number, dates and location, and the proceedings DOI the papers hang off | 3.5 |
 | [articleMetricsBadges](https://github.com/OJSBR/articleMetricsBadges) | generic | Article-level metric badges from PlumX, Dimensions and Altmetric, each provider and each position (article page, sidebar block) switchable on its own; renders only on articles with a DOI, every provider disabled by default with its terms of use documented | 3.3 · 3.4 · 3.5 |
+| [epubJsViewer](https://github.com/OJSBR/epubJsViewer) | generic | Embedded EPUB galley reader with zoom, table of contents and reading modes, powered by epub.js; continues the `epubViewer` by Lepidus Tecnologia, discontinued in 2025 when its Bibi reading engine stopped being maintained, and never released for 3.5 | 3.5 |
 | [ojsbr-webhook](https://github.com/OJSBR/ojsbr-webhook) | generic | Sends HTTP webhooks when submissions are created and articles published | 3.4 |
 | [accessibility](https://github.com/OJSBR/accessibility) | block | Sidebar accessibility controls for readers: zoom in/out, high-contrast toggle and reset (preferences persist across pages) | 3.3 · 3.4 · 3.5 |
 | [languageToggleByFlag](https://github.com/OJSBR/languageToggleByFlag) | block | Sidebar language switcher with country flags (also works on OMP/OPS); adapted for 3.5 by OJSBR, original by Lepidus Tecnologia | 3.5 |
@@ -34,6 +35,7 @@ PKP version (`stable-3_5_0`, `stable-3_4_0`, …) and installable packages under
 | [keywordCloudClassicBeautiful](https://github.com/OJSBR/keywordCloudClassicBeautiful) | block | Packed sidebar keyword cloud sized and coloured by frequency (the classic behaviour restored); self-contained, no CDN; original keywordCloud by PKP/SFU, maintained by Lepidus Tecnologia | 3.4 · 3.5 |
 | [recommendByAuthor](https://github.com/OJSBR/recommendByAuthor) | generic | Original recommendByAuthor by PKP/SFU, rewritten by OJSBR: the "articles by the same author" list is materialised by a scheduled task and read from a table, instead of scanning author_settings once per author on every article view (11.9 s → 16.6 ms on a journal of 4,823 articles); matches on a normalised name or ORCID, so it also finds articles the original misses | 3.3 · 3.5 |
 | [recommendBySimilarity](https://github.com/OJSBR/recommendBySimilarity) | generic | Original recommendBySimilarity by PKP/SFU, rewritten by OJSBR: the "similar articles" list is materialised by a scheduled task and read from a table, instead of running a ranked search-index query with correlated subqueries on every article view; same terms and same ordering as the core | 3.3 · 3.5 |
+| [citations](https://github.com/OJSBR/citations) | generic | Citation counts and the list of citing works from Crossref Cited-by, Scopus, Europe PMC and Google Scholar on the article page — OJS 3.5 fork of `RBoelter/citations`, the original plugin by Ronny Bölter, which stops at 3.4 | 3.5 |
 | [pln](https://github.com/OJSBR/pln) | generic | PKP Preservation Network (PLN / PKP PN) — unofficial OJS 3.5 build (based on pkp/pln#117), maintained until the official release | 3.5 |
 | [shariff](https://github.com/OJSBR/shariff) | generic | Privacy-friendly social media share buttons (Shariff) — unofficial OJS/OMP 3.5 build of ojsde/shariff with the Portuguese fixes proposed in ojsde/shariff#54, maintained until the official release | 3.5 |
 
@@ -92,6 +94,8 @@ upload it via **Settings → Website → Plugins → Upload A New Plugin**.
 | languageToggleByFlag | OJS | [⬇ 3.5.0.4](https://github.com/OJSBR/languageToggleByFlag/releases/download/3.5.0.4/languageToggleByFlag-3.5.0.4.tar.gz) | — | — |
 | pln | OJS | [⬇ 4.0.0.0](https://github.com/OJSBR/pln/releases/download/4.0.0.0-ojs3.5/pln-4.0.0.0-ojs3.5.tar.gz) | — | — |
 | shariff | OJS | [⬇ 3.5.1.2](https://github.com/OJSBR/shariff/releases/download/3.5.1.2/shariff-3.5.1.2.tar.gz) | — | — |
+| epubJsViewer | OJS | [⬇ 1.1.0.0](https://github.com/OJSBR/epubJsViewer/releases/download/1.1.0.0/epubJsViewer-1.1.0.0.tar.gz) | — | — |
+| citations | OJS | [⬇ 3.5.0.0](https://github.com/OJSBR/citations/releases/download/3.5.0.0/citations-3.5.0.0.tar.gz) | — | — |
 | ojsbr-webhook | OJS | — | [⬇ 3.4.build.14](https://github.com/OJSBR/ojsbr-webhook/releases/download/3.4.latest/ojsbrWebhook-3.4.build.14.tar.gz) | — |
 | customMetadata | OMP | [⬇ 1.0.0.2](https://github.com/OJSBR/customMetadata/releases/download/1.0.0.2-omp3.5/customMetadata-1.0.0.2-omp3.5.tar.gz) | [⬇ 1.0.0.1](https://github.com/OJSBR/customMetadata/releases/download/1.0.0.1-omp3.4/customMetadata-1.0.0.1-omp3.4.tar.gz) | — |
 | crossref | OMP | [⬇ 1.0.0.2](https://github.com/OJSBR/crossref/releases/download/1.0.0.2-omp3.5/crossref-1.0.0.2-omp3.5.tar.gz) | [⬇ 1.0.0.1](https://github.com/OJSBR/crossref/releases/download/1.0.0.1-omp3.4/crossref-1.0.0.1-omp3.4.tar.gz) | — |
@@ -113,8 +117,8 @@ upload it via **Settings → Website → Plugins → Upload A New Plugin**.
 
 Some plugins were rewritten or adapted by OJSBR from earlier community work; upstream authors
 are credited in each repository's **Credits & authorship** section. Original authors we build
-on include **Antti-Jussi Nygård (@ajnyga)**, **@zielaq**, **Lepidus Tecnologia**,
-**STI-FFLCH/USP**, **ABCD/USP** and **PKP**.
+on include **Antti-Jussi Nygård (@ajnyga)**, **Ronny Bölter (@RBoelter)**, **@zielaq**,
+**Lepidus Tecnologia**, **FuturePress (epub.js)**, **STI-FFLCH/USP**, **ABCD/USP** and **PKP**.
 
 ## Contributing
 
@@ -153,8 +157,8 @@ Cada repositório traz README completo com instalação, configuração e crédi
 Alguns plugins foram reescritos ou adaptados pela OJSBR a partir de trabalhos anteriores da
 comunidade; os autores originais são creditados na seção **Créditos e autoria** de cada
 repositório. Entre os trabalhos originais em que nos baseamos estão os de **Antti-Jussi
-Nygård (@ajnyga)**, **@zielaq**, **Lepidus Tecnologia**, **STI-FFLCH/USP**, **ABCD/USP** e
-**PKP**.
+Nygård (@ajnyga)**, **Ronny Bölter (@RBoelter)**, **@zielaq**, **Lepidus Tecnologia**,
+**FuturePress (epub.js)**, **STI-FFLCH/USP**, **ABCD/USP** e **PKP**.
 
 ### Licença
 
