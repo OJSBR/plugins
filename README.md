@@ -97,8 +97,8 @@ upload it via **Settings → Website → Plugins → Upload A New Plugin**.
 | epubJsViewer | OJS | [⬇ 1.1.0.0](https://github.com/OJSBR/epubJsViewer/releases/download/1.1.0.0/epubJsViewer-1.1.0.0.tar.gz) | — | — |
 | citations | OJS | [⬇ 3.5.0.0](https://github.com/OJSBR/citations/releases/download/3.5.0.0/citations-3.5.0.0.tar.gz) | — | — |
 | ojsbr-webhook | OJS | — | [⬇ 3.4.build.14](https://github.com/OJSBR/ojsbr-webhook/releases/download/3.4.latest/ojsbrWebhook-3.4.build.14.tar.gz) | — |
-| customMetadata | OMP | [⬇ 1.0.0.2](https://github.com/OJSBR/customMetadata/releases/download/1.0.0.2-omp3.5/customMetadata-1.0.0.2-omp3.5.tar.gz) | [⬇ 1.0.0.1](https://github.com/OJSBR/customMetadata/releases/download/1.0.0.1-omp3.4/customMetadata-1.0.0.1-omp3.4.tar.gz) | — |
-| crossref | OMP | [⬇ 1.0.0.2](https://github.com/OJSBR/crossref/releases/download/1.0.0.2-omp3.5/crossref-1.0.0.2-omp3.5.tar.gz) | [⬇ 1.0.0.1](https://github.com/OJSBR/crossref/releases/download/1.0.0.1-omp3.4/crossref-1.0.0.1-omp3.4.tar.gz) | — |
+| customMetadata | OMP | [⬇ 1.0.0.2](https://github.com/OJSBR/customMetadata/releases/download/1.0.0.2-omp3.5/customMetadata-1.0.0.2-omp3.5.tar.gz) | [⬇ 1.0.0.2](https://github.com/OJSBR/customMetadata/releases/download/1.0.0.2-omp3.4/customMetadata-1.0.0.2-omp3.4.tar.gz) | — |
+| crossref | OMP | [⬇ 1.0.0.2](https://github.com/OJSBR/crossref/releases/download/1.0.0.2-omp3.5/crossref-1.0.0.2-omp3.5.tar.gz) | [⬇ 1.0.0.2](https://github.com/OJSBR/crossref/releases/download/1.0.0.2-omp3.4/crossref-1.0.0.2-omp3.4.tar.gz) | — |
 | assignEditorGeneral | OMP | [⬇ 1.0.0.2](https://github.com/OJSBR/assignEditorGeneral/releases/download/1.0.0.2-omp3.5/assignEditorGeneral-1.0.0.2-omp3.5.tar.gz) | — | — |
 | keywordCloudClassicBeautifulOmp | OMP | [⬇ 1.0.2.0](https://github.com/OJSBR/keywordCloudClassicBeautifulOmp/releases/download/1.0.2.0-omp3.5/keywordCloudClassicBeautiful-1.0.2.0-omp3.5.tar.gz) | — | — |
 | staticEditorialTeamOmp | OMP | [⬇ 1.0.0.1](https://github.com/OJSBR/staticEditorialTeamOmp/releases/download/1.0.0.1-omp3.5/staticEditorialTeam-1.0.0.1-omp3.5.tar.gz) | — | — |
