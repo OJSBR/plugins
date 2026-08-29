@@ -76,42 +76,42 @@ upload it via **Settings → Website → Plugins → Upload A New Plugin**.
 | Plugin | Software | OJS/OMP 3.5 | OJS/OMP 3.4 | OJS 3.3 |
 |--------|----------|-------------|-------------|---------|
 | blindReviewGuard | OJS | [⬇ 1.0.0.0](https://github.com/OJSBR/blindReviewGuard/releases/download/1.0.0.0/blindReviewGuard-1.0.0.0.tar.gz) | — | — |
-| viewcounter | OJS | [⬇ 1.2.0.3](https://github.com/OJSBR/viewcounter/releases/download/1.2.0.3/viewcounter-1.2.0.3.tar.gz) | [⬇ 1.1.0.1](https://github.com/OJSBR/viewcounter/releases/download/1.1.0.1/viewcounter-1.1.0.1.tar.gz) | — |
-| mostRead | OJS | [⬇ 3.5.0.3](https://github.com/OJSBR/mostRead/releases/download/3.5.0.3/mostRead-3.5.0.3.tar.gz) | [⬇ 3.4.0.2](https://github.com/OJSBR/mostRead/releases/download/3.4.0.2/mostRead-3.4.0.2.tar.gz) | — |
-| whatsAppContributor | OJS | [⬇ 1.1.0.2](https://github.com/OJSBR/whatsAppContributor/releases/download/1.1.0.2/whatsAppContributor-1.1.0.2.tar.gz) | [⬇ 1.0.0.1](https://github.com/OJSBR/whatsAppContributor/releases/download/1.0.0.1/whatsAppContributor-1.0.0.1.tar.gz) | — |
-| doiInSummary | OJS | [⬇ 3.5.0.3](https://github.com/OJSBR/doiInSummary/releases/download/3.5.0.3/doiInSummary-3.5.0.3.tar.gz) | [⬇ 3.4.0.2](https://github.com/OJSBR/doiInSummary/releases/download/3.4.0.2/doiInSummary-3.4.0.2.tar.gz) | — |
-| ojsbrFilenameRename | OJS | [⬇ 1.1.0.2](https://github.com/OJSBR/ojsbrFilenameRename/releases/download/1.1.0.2-ojs3.5/ojsbrFilenameRename-1.1.0.2-ojs3.5.tar.gz) | [⬇ 1.1.0.1](https://github.com/OJSBR/ojsbrFilenameRename/releases/download/1.1.0.1-ojs3.4/ojsbrFilenameRename-1.1.0.1-ojs3.4.tar.gz) | — |
-| orcidManualEntry | OJS | [⬇ 1.1.0.0](https://github.com/OJSBR/orcidManualEntry/releases/download/1.1.0.0/orcidManualEntry-1.1.0.0.tar.gz) | — | — |
-| reviewerRecommendationManager | OJS | [⬇ 1.0.3.1](https://github.com/OJSBR/reviewerRecommendationManager/releases/download/1.0.3.1/reviewerRecommendationManager-1.0.3.1.tar.gz) | [⬇ 1.0.3.1-ojs3.4](https://github.com/OJSBR/reviewerRecommendationManager/releases/download/1.0.3.1-ojs3.4/reviewerRecommendationManager-1.0.3.1-ojs3.4.tar.gz) | — |
-| accessibility | OJS | [⬇ 1.0.1.1](https://github.com/OJSBR/accessibility/releases/download/1.0.1.1/accessibility-1.0.1.1.tar.gz) | [⬇ 1.0.0.1-ojs3.4](https://github.com/OJSBR/accessibility/releases/download/1.0.0.1-ojs3.4/accessibility-1.0.0.1-ojs3.4.tar.gz) | [⬇ 1.0.0.1-ojs3.3](https://github.com/OJSBR/accessibility/releases/download/1.0.0.1-ojs3.3/accessibility-1.0.0.1-ojs3.3.tar.gz) |
-| vlibras | OJS | [⬇ 1.0.0.1](https://github.com/OJSBR/vlibras/releases/download/1.0.0.1/vlibras-1.0.0.1.tar.gz) | [⬇ 1.0.0.1-ojs3.4](https://github.com/OJSBR/vlibras/releases/download/1.0.0.1-ojs3.4/vlibras-1.0.0.1-ojs3.4.tar.gz) | [⬇ 1.0.0.1-ojs3.3](https://github.com/OJSBR/vlibras/releases/download/1.0.0.1-ojs3.3/vlibras-1.0.0.1-ojs3.3.tar.gz) |
-| recommendByAuthor | OJS | [⬇ 2.0.0.1](https://github.com/OJSBR/recommendByAuthor/releases/download/2.0.0.1/recommendByAuthor-2.0.0.1.tar.gz) | — | [⬇ 2.0.0.1-ojs3.3](https://github.com/OJSBR/recommendByAuthor/releases/download/2.0.0.1-ojs3.3/recommendByAuthor-2.0.0.1-ojs3.3.tar.gz) |
-| recommendBySimilarity | OJS | [⬇ 2.0.0.1](https://github.com/OJSBR/recommendBySimilarity/releases/download/2.0.0.1/recommendBySimilarity-2.0.0.1.tar.gz) | — | [⬇ 2.0.0.1-ojs3.3](https://github.com/OJSBR/recommendBySimilarity/releases/download/2.0.0.1-ojs3.3/recommendBySimilarity-2.0.0.1-ojs3.3.tar.gz) |
-| staticEditorialTeam | OJS | [⬇ 1.0.0.1](https://github.com/OJSBR/staticEditorialTeam/releases/download/1.0.0.1/staticEditorialTeam-1.0.0.1.tar.gz) | — | — |
-| classicUserEditor | OJS | [⬇ 1.0.0.1](https://github.com/OJSBR/classicUserEditor/releases/download/1.0.0.1/classicUserEditor-1.0.0.1.tar.gz) | — | — |
-| authorContributorEditor | OJS | [⬇ 1.0.0.0](https://github.com/OJSBR/authorContributorEditor/releases/download/1.0.0.0/authorContributorEditor-1.0.0.0.tar.gz) | — | — |
-| reviewerDirectory | OJS | [⬇ 1.0.0.2](https://github.com/OJSBR/reviewerDirectory/releases/download/1.0.0.2/reviewerDirectory-1.0.0.2.tar.gz) | — | — |
-| controlledVocabSplitter | OJS | [⬇ 1.0.0.0](https://github.com/OJSBR/controlledVocabSplitter/releases/download/1.0.0.0/controlledVocabSplitter-1.0.0.0.tar.gz) | — | — |
-| crossrefConference | OJS | [⬇ 1.0.0.0](https://github.com/OJSBR/crossrefConference/releases/download/1.0.0.0/crossrefConference-1.0.0.0.tar.gz) | — | — |
-| languageToggleByFlag | OJS | [⬇ 3.5.0.4](https://github.com/OJSBR/languageToggleByFlag/releases/download/3.5.0.4/languageToggleByFlag-3.5.0.4.tar.gz) | — | — |
-| pln | OJS | [⬇ 4.0.0.0](https://github.com/OJSBR/pln/releases/download/4.0.0.0-ojs3.5/pln-4.0.0.0-ojs3.5.tar.gz) | — | — |
-| shariff | OJS | [⬇ 3.5.1.2](https://github.com/OJSBR/shariff/releases/download/3.5.1.2/shariff-3.5.1.2.tar.gz) | — | — |
-| epubJsViewer | OJS | [⬇ 1.1.0.0](https://github.com/OJSBR/epubJsViewer/releases/download/1.1.0.0/epubJsViewer-1.1.0.0.tar.gz) | — | — |
-| citations | OJS | [⬇ 3.5.0.0](https://github.com/OJSBR/citations/releases/download/3.5.0.0/citations-3.5.0.0.tar.gz) | — | — |
-| ojsbr-webhook | OJS | — | [⬇ 3.4.build.14](https://github.com/OJSBR/ojsbr-webhook/releases/download/3.4.latest/ojsbrWebhook-3.4.build.14.tar.gz) | — |
-| customMetadata | OMP | [⬇ 1.0.0.2](https://github.com/OJSBR/customMetadata/releases/download/1.0.0.2-omp3.5/customMetadata-1.0.0.2-omp3.5.tar.gz) | [⬇ 1.0.0.2](https://github.com/OJSBR/customMetadata/releases/download/1.0.0.2-omp3.4/customMetadata-1.0.0.2-omp3.4.tar.gz) | — |
-| crossref | OMP | [⬇ 1.0.0.2](https://github.com/OJSBR/crossref/releases/download/1.0.0.2-omp3.5/crossref-1.0.0.2-omp3.5.tar.gz) | [⬇ 1.0.0.2](https://github.com/OJSBR/crossref/releases/download/1.0.0.2-omp3.4/crossref-1.0.0.2-omp3.4.tar.gz) | — |
-| assignEditorGeneral | OMP | [⬇ 1.0.0.2](https://github.com/OJSBR/assignEditorGeneral/releases/download/1.0.0.2-omp3.5/assignEditorGeneral-1.0.0.2-omp3.5.tar.gz) | — | — |
-| keywordCloudClassicBeautifulOmp | OMP | [⬇ 1.0.2.0](https://github.com/OJSBR/keywordCloudClassicBeautifulOmp/releases/download/1.0.2.0-omp3.5/keywordCloudClassicBeautiful-1.0.2.0-omp3.5.tar.gz) | — | — |
-| staticEditorialTeamOmp | OMP | [⬇ 1.0.0.1](https://github.com/OJSBR/staticEditorialTeamOmp/releases/download/1.0.0.1-omp3.5/staticEditorialTeam-1.0.0.1-omp3.5.tar.gz) | — | — |
-| classicUserEditorOmp | OMP | [⬇ 1.0.0.1](https://github.com/OJSBR/classicUserEditorOmp/releases/download/1.0.0.1-omp3.5/classicUserEditor-1.0.0.1-omp3.5.tar.gz) | — | — |
-| controlledVocabSplitterOmp | OMP | [⬇ 1.0.0.0](https://github.com/OJSBR/controlledVocabSplitterOmp/releases/download/1.0.0.0-omp3.5/controlledVocabSplitter-1.0.0.0-omp3.5.tar.gz) | — | — |
-| ojsbrFilenameRenameOmp | OMP | [⬇ 1.1.0.2](https://github.com/OJSBR/ojsbrFilenameRenameOmp/releases/download/1.1.0.2-omp3.5/ojsbrFilenameRename-1.1.0.2-omp3.5.tar.gz) | — | — |
-| orcidManualEntryOmp | OMP | [⬇ 1.0.2.0](https://github.com/OJSBR/orcidManualEntryOmp/releases/download/1.0.2.0-omp3.5/orcidManualEntry-1.0.2.0-omp3.5.tar.gz) | — | — |
-| requiredMultilingualMetadataOmp | OMP | [⬇ 1.1.0.1](https://github.com/OJSBR/requiredMultilingualMetadataOmp/releases/download/1.1.0.1-omp3.5/requiredMultilingualMetadata-1.1.0.1-omp3.5.tar.gz) | — | — |
-| reviewerDirectoryOmp | OMP | [⬇ 1.0.0.2](https://github.com/OJSBR/reviewerDirectoryOmp/releases/download/1.0.0.2-omp3.5/reviewerDirectory-1.0.0.2-omp3.5.tar.gz) | — | — |
-| mostReadOmp | OMP | [⬇ 3.5.0.3](https://github.com/OJSBR/mostReadOmp/releases/download/3.5.0.3-omp3.5/mostRead-3.5.0.3-omp3.5.tar.gz) | — | — |
-| keywordCloudClassicBeautiful | OJS | [⬇ 1.0.2.0](https://github.com/OJSBR/keywordCloudClassicBeautiful/releases/download/1.0.2.0/keywordCloudClassicBeautiful-1.0.2.0.tar.gz) | [⬇ 1.0.2.0-ojs3.4](https://github.com/OJSBR/keywordCloudClassicBeautiful/releases/download/1.0.2.0-ojs3.4/keywordCloudClassicBeautiful-1.0.2.0-ojs3.4.tar.gz) | — |
+| viewcounter | OJS | [⬇ 1.2.0.4](https://github.com/OJSBR/viewcounter/releases/download/1.2.0.4/viewcounter-1.2.0.4.tar.gz) | [⬇ 1.1.0.1](https://github.com/OJSBR/viewcounter/releases/download/1.1.0.1/viewcounter-1.1.0.1.tar.gz) | — |
+| mostRead | OJS | [⬇ 3.5.0.4](https://github.com/OJSBR/mostRead/releases/download/3.5.0.4/mostRead-3.5.0.4.tar.gz) | [⬇ 3.4.0.2](https://github.com/OJSBR/mostRead/releases/download/3.4.0.2/mostRead-3.4.0.2.tar.gz) | — |
+| whatsAppContributor | OJS | [⬇ 1.1.0.3](https://github.com/OJSBR/whatsAppContributor/releases/download/1.1.0.3/whatsAppContributor-1.1.0.3.tar.gz) | [⬇ 1.0.0.1](https://github.com/OJSBR/whatsAppContributor/releases/download/1.0.0.1/whatsAppContributor-1.0.0.1.tar.gz) | — |
+| doiInSummary | OJS | [⬇ 3.5.0.4](https://github.com/OJSBR/doiInSummary/releases/download/3.5.0.4/doiInSummary-3.5.0.4.tar.gz) | [⬇ 3.4.0.2](https://github.com/OJSBR/doiInSummary/releases/download/3.4.0.2/doiInSummary-3.4.0.2.tar.gz) | — |
+| ojsbrFilenameRename | OJS | [⬇ 1.1.0.3](https://github.com/OJSBR/ojsbrFilenameRename/releases/download/1.1.0.3/ojsbrFilenameRename-1.1.0.3.tar.gz) | [⬇ 1.1.0.1](https://github.com/OJSBR/ojsbrFilenameRename/releases/download/1.1.0.1-ojs3.4/ojsbrFilenameRename-1.1.0.1-ojs3.4.tar.gz) | — |
+| orcidManualEntry | OJS | [⬇ 1.1.0.1](https://github.com/OJSBR/orcidManualEntry/releases/download/1.1.0.1/orcidManualEntry-1.1.0.1.tar.gz) | — | — |
+| reviewerRecommendationManager | OJS | [⬇ 1.0.3.2](https://github.com/OJSBR/reviewerRecommendationManager/releases/download/1.0.3.2/reviewerRecommendationManager-1.0.3.2.tar.gz) | [⬇ 1.0.3.1](https://github.com/OJSBR/reviewerRecommendationManager/releases/download/1.0.3.1-ojs3.4/reviewerRecommendationManager-1.0.3.1-ojs3.4.tar.gz) | — |
+| accessibility | OJS | [⬇ 1.0.1.2](https://github.com/OJSBR/accessibility/releases/download/1.0.1.2/accessibility-1.0.1.2.tar.gz) | [⬇ 1.0.0.1](https://github.com/OJSBR/accessibility/releases/download/1.0.0.1-ojs3.4/accessibility-1.0.0.1-ojs3.4.tar.gz) | [⬇ 1.0.0.1](https://github.com/OJSBR/accessibility/releases/download/1.0.0.1-ojs3.3/accessibility-1.0.0.1-ojs3.3.tar.gz) |
+| vlibras | OJS | [⬇ 1.0.0.2](https://github.com/OJSBR/vlibras/releases/download/1.0.0.2/vlibras-1.0.0.2.tar.gz) | [⬇ 1.0.0.1](https://github.com/OJSBR/vlibras/releases/download/1.0.0.1-ojs3.4/vlibras-1.0.0.1-ojs3.4.tar.gz) | [⬇ 1.0.0.1](https://github.com/OJSBR/vlibras/releases/download/1.0.0.1-ojs3.3/vlibras-1.0.0.1-ojs3.3.tar.gz) |
+| recommendByAuthor | OJS | [⬇ 2.0.0.2](https://github.com/OJSBR/recommendByAuthor/releases/download/2.0.0.2/recommendByAuthor-2.0.0.2.tar.gz) | — | [⬇ 2.0.0.1](https://github.com/OJSBR/recommendByAuthor/releases/download/2.0.0.1-ojs3.3/recommendByAuthor-2.0.0.1-ojs3.3.tar.gz) |
+| recommendBySimilarity | OJS | [⬇ 2.0.0.2](https://github.com/OJSBR/recommendBySimilarity/releases/download/2.0.0.2/recommendBySimilarity-2.0.0.2.tar.gz) | — | [⬇ 2.0.0.1](https://github.com/OJSBR/recommendBySimilarity/releases/download/2.0.0.1-ojs3.3/recommendBySimilarity-2.0.0.1-ojs3.3.tar.gz) |
+| staticEditorialTeam | OJS | [⬇ 1.0.0.2](https://github.com/OJSBR/staticEditorialTeam/releases/download/1.0.0.2/staticEditorialTeam-1.0.0.2.tar.gz) | — | — |
+| classicUserEditor | OJS | [⬇ 1.0.0.3](https://github.com/OJSBR/classicUserEditor/releases/download/1.0.0.3/classicUserEditor-1.0.0.3.tar.gz) | — | — |
+| authorContributorEditor | OJS | [⬇ 1.0.0.1](https://github.com/OJSBR/authorContributorEditor/releases/download/1.0.0.1/authorContributorEditor-1.0.0.1.tar.gz) | — | — |
+| reviewerDirectory | OJS | [⬇ 1.0.0.3](https://github.com/OJSBR/reviewerDirectory/releases/download/1.0.0.3/reviewerDirectory-1.0.0.3.tar.gz) | — | — |
+| controlledVocabSplitter | OJS | [⬇ 1.0.0.1](https://github.com/OJSBR/controlledVocabSplitter/releases/download/1.0.0.1/controlledVocabSplitter-1.0.0.1.tar.gz) | — | — |
+| crossrefConference | OJS | [⬇ 1.0.0.1](https://github.com/OJSBR/crossrefConference/releases/download/1.0.0.1/crossrefConference-1.0.0.1.tar.gz) | — | — |
+| languageToggleByFlag | OJS | [⬇ 3.5.0.5](https://github.com/OJSBR/languageToggleByFlag/releases/download/3.5.0.5/languageToggleByFlag-3.5.0.5.tar.gz) | — | — |
+| pln | OJS | [⬇ 4.0.0.2](https://github.com/OJSBR/pln/releases/download/4.0.0.2/pln-4.0.0.2.tar.gz) | — | — |
+| shariff | OJS | [⬇ 3.5.1.3](https://github.com/OJSBR/shariff/releases/download/3.5.1.3/shariff-3.5.1.3.tar.gz) | — | — |
+| epubJsViewer | OJS | [⬇ 1.1.0.1](https://github.com/OJSBR/epubJsViewer/releases/download/1.1.0.1/epubJsViewer-1.1.0.1.tar.gz) | — | — |
+| citations | OJS | [⬇ 3.5.0.1](https://github.com/OJSBR/citations/releases/download/3.5.0.1/citations-3.5.0.1.tar.gz) | — | — |
+| ojsbr-webhook | OJS | — | [⬇ 1.0.0.4](https://github.com/OJSBR/ojsbr-webhook/releases/download/1.0.0.4/ojsbrWebhook-1.0.0.4.tar.gz) | — |
+| customMetadata | OMP | [⬇ 1.0.0.3](https://github.com/OJSBR/customMetadata/releases/download/1.0.0.3/customMetadata-1.0.0.3.tar.gz) | [⬇ 1.0.0.2](https://github.com/OJSBR/customMetadata/releases/download/1.0.0.2-omp3.4/customMetadata-1.0.0.2-omp3.4.tar.gz) | — |
+| crossref | OMP | [⬇ 1.0.0.4](https://github.com/OJSBR/crossref/releases/download/1.0.0.4/crossref-1.0.0.4.tar.gz) | [⬇ 1.0.0.3](https://github.com/OJSBR/crossref/releases/download/1.0.0.3-omp3.4/crossref-1.0.0.3-omp3.4.tar.gz) | — |
+| assignEditorGeneral | OMP | [⬇ 1.0.0.3](https://github.com/OJSBR/assignEditorGeneral/releases/download/1.0.0.3/assignEditorGeneral-1.0.0.3.tar.gz) | — | — |
+| keywordCloudClassicBeautifulOmp | OMP | [⬇ 1.0.2.1](https://github.com/OJSBR/keywordCloudClassicBeautifulOmp/releases/download/1.0.2.1/keywordCloudClassicBeautiful-1.0.2.1.tar.gz) | — | — |
+| staticEditorialTeamOmp | OMP | [⬇ 1.0.0.2](https://github.com/OJSBR/staticEditorialTeamOmp/releases/download/1.0.0.2/staticEditorialTeam-1.0.0.2.tar.gz) | — | — |
+| classicUserEditorOmp | OMP | [⬇ 1.0.0.2](https://github.com/OJSBR/classicUserEditorOmp/releases/download/1.0.0.2/classicUserEditor-1.0.0.2.tar.gz) | — | — |
+| controlledVocabSplitterOmp | OMP | [⬇ 1.0.0.1](https://github.com/OJSBR/controlledVocabSplitterOmp/releases/download/1.0.0.1/controlledVocabSplitter-1.0.0.1.tar.gz) | — | — |
+| ojsbrFilenameRenameOmp | OMP | [⬇ 1.1.0.3](https://github.com/OJSBR/ojsbrFilenameRenameOmp/releases/download/1.1.0.3/ojsbrFilenameRename-1.1.0.3.tar.gz) | — | — |
+| orcidManualEntryOmp | OMP | [⬇ 1.0.2.1](https://github.com/OJSBR/orcidManualEntryOmp/releases/download/1.0.2.1/orcidManualEntry-1.0.2.1.tar.gz) | — | — |
+| requiredMultilingualMetadataOmp | OMP | [⬇ 1.1.0.2](https://github.com/OJSBR/requiredMultilingualMetadataOmp/releases/download/1.1.0.2/requiredMultilingualMetadata-1.1.0.2.tar.gz) | — | — |
+| reviewerDirectoryOmp | OMP | [⬇ 1.0.0.3](https://github.com/OJSBR/reviewerDirectoryOmp/releases/download/1.0.0.3/reviewerDirectory-1.0.0.3.tar.gz) | — | — |
+| mostReadOmp | OMP | [⬇ 3.5.0.4](https://github.com/OJSBR/mostReadOmp/releases/download/3.5.0.4/mostRead-3.5.0.4.tar.gz) | — | — |
+| keywordCloudClassicBeautiful | OJS | [⬇ 1.0.2.1](https://github.com/OJSBR/keywordCloudClassicBeautiful/releases/download/1.0.2.1/keywordCloudClassicBeautiful-1.0.2.1.tar.gz) | [⬇ 1.0.2.0](https://github.com/OJSBR/keywordCloudClassicBeautiful/releases/download/1.0.2.0-ojs3.4/keywordCloudClassicBeautiful-1.0.2.0-ojs3.4.tar.gz) | — |
 
 > The **latest** package of each plugin is always on its repository's *Releases* page.
 
