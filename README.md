@@ -20,6 +20,7 @@ PKP version (`stable-3_5_0`, `stable-3_4_0`, …) and installable packages under
 | [ojsbrFilenameRename](https://github.com/OJSBR/ojsbrFilenameRename) | generic | Renames the file delivered on download (configurable pattern) | 3.4 · 3.5 |
 | [orcidManualEntry](https://github.com/OJSBR/orcidManualEntry) | generic | Restores a manual ORCID field (contributor form, user registration and profile) when ORCID OAuth is not configured (authenticated ORCID stays recommended) | 3.5 |
 | [reviewerRecommendationManager](https://github.com/OJSBR/reviewerRecommendationManager) | generic | Rename (multilingual), reorder and disable reviewer recommendations without patching core, preserving review history | 3.4 · 3.5 |
+| [blindReviewGuard](https://github.com/OJSBR/blindReviewGuard) | generic | Checks the files a reviewer is about to receive for anything that identifies the authors (document properties, tracked changes, comments, text, file name) and can remove the identifying metadata | 3.5 |
 | [staticEditorialTeam](https://github.com/OJSBR/staticEditorialTeam) | generic | Brings back the static Editorial Team page: shows the journal's free-text setting instead of the dynamic masthead listing introduced in 3.5 | 3.5 |
 | [classicUserEditor](https://github.com/OJSBR/classicUserEditor) | generic | Restores direct editing of users (given name, family name, email and roles) for managers and administrators, alongside the 3.5 invitation manager | 3.5 |
 | [authorContributorEditor](https://github.com/OJSBR/authorContributorEditor) | generic | Gives authors back the editing of the contributor list of their own submissions when their user group is allowed to edit submission metadata, as in 3.3/3.4 | 3.5 |
@@ -74,6 +75,7 @@ upload it via **Settings → Website → Plugins → Upload A New Plugin**.
 
 | Plugin | Software | OJS/OMP 3.5 | OJS/OMP 3.4 | OJS 3.3 |
 |--------|----------|-------------|-------------|---------|
+| blindReviewGuard | OJS | [⬇ 1.0.0.0](https://github.com/OJSBR/blindReviewGuard/releases/download/1.0.0.0/blindReviewGuard-1.0.0.0.tar.gz) | — | — |
 | viewcounter | OJS | [⬇ 1.2.0.3](https://github.com/OJSBR/viewcounter/releases/download/1.2.0.3/viewcounter-1.2.0.3.tar.gz) | [⬇ 1.1.0.1](https://github.com/OJSBR/viewcounter/releases/download/1.1.0.1/viewcounter-1.1.0.1.tar.gz) | — |
 | mostRead | OJS | [⬇ 3.5.0.3](https://github.com/OJSBR/mostRead/releases/download/3.5.0.3/mostRead-3.5.0.3.tar.gz) | [⬇ 3.4.0.2](https://github.com/OJSBR/mostRead/releases/download/3.4.0.2/mostRead-3.4.0.2.tar.gz) | — |
 | whatsAppContributor | OJS | [⬇ 1.1.0.2](https://github.com/OJSBR/whatsAppContributor/releases/download/1.1.0.2/whatsAppContributor-1.1.0.2.tar.gz) | [⬇ 1.0.0.1](https://github.com/OJSBR/whatsAppContributor/releases/download/1.0.0.1/whatsAppContributor-1.0.0.1.tar.gz) | — |
