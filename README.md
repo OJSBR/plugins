@@ -103,7 +103,7 @@ upload it via **Settings → Website → Plugins → Upload A New Plugin**.
 | languageToggleByFlag | OJS | [⬇ 3.5.0.5](https://github.com/OJSBR/languageToggleByFlag/releases/download/3.5.0.5/languageToggleByFlag-3.5.0.5.tar.gz) | — | — |
 | pln | OJS | [⬇ 4.0.0.2](https://github.com/OJSBR/pln/releases/download/4.0.0.2/pln-4.0.0.2.tar.gz) | — | — |
 | shariff | OJS | [⬇ 3.5.1.3](https://github.com/OJSBR/shariff/releases/download/3.5.1.3/shariff-3.5.1.3.tar.gz) | — | — |
-| epubJsViewer | OJS · OPS · OMP | [⬇ 1.2.0.3](https://github.com/OJSBR/epubJsViewer/releases/download/1.2.0.3/epubJsViewer-1.2.0.3.tar.gz) | — | — |
+| epubJsViewer | OJS · OPS · OMP | [⬇ 1.2.0.4](https://github.com/OJSBR/epubJsViewer/releases/download/1.2.0.4/epubJsViewer-1.2.0.4.tar.gz) | — | — |
 | citations | OJS | [⬇ 3.5.0.1](https://github.com/OJSBR/citations/releases/download/3.5.0.1/citations-3.5.0.1.tar.gz) | — | — |
 | ojsbr-webhook | OJS | — | [⬇ 1.0.0.4](https://github.com/OJSBR/ojsbr-webhook/releases/download/1.0.0.4/ojsbrWebhook-1.0.0.4.tar.gz) | — |
 | customMetadata | OMP | [⬇ 1.0.0.3](https://github.com/OJSBR/customMetadata/releases/download/1.0.0.3/customMetadata-1.0.0.3.tar.gz) | [⬇ 1.0.0.2](https://github.com/OJSBR/customMetadata/releases/download/1.0.0.2-omp3.4/customMetadata-1.0.0.2-omp3.4.tar.gz) | — |
@@ -118,8 +118,8 @@ upload it via **Settings → Website → Plugins → Upload A New Plugin**.
 | requiredMultilingualMetadataOmp | OMP | [⬇ 1.1.0.2](https://github.com/OJSBR/requiredMultilingualMetadataOmp/releases/download/1.1.0.2/requiredMultilingualMetadata-1.1.0.2.tar.gz) | — | — |
 | reviewerDirectoryOmp | OMP | [⬇ 1.0.0.3](https://github.com/OJSBR/reviewerDirectoryOmp/releases/download/1.0.0.3/reviewerDirectory-1.0.0.3.tar.gz) | — | — |
 | mostReadOmp | OMP | [⬇ 3.5.0.4](https://github.com/OJSBR/mostReadOmp/releases/download/3.5.0.4/mostRead-3.5.0.4.tar.gz) | — | — |
-| audioPlayerOmp | OMP | [⬇ 1.0.1.0](https://github.com/OJSBR/audioPlayerOmp/releases/download/1.0.1.0-omp3.5/audioPlayer-1.0.1.0-omp3.5.tar.gz) | — | — |
-| pdfFlipbookOmp | OMP | [⬇ 0.3.0.0](https://github.com/OJSBR/pdfFlipbookOmp/releases/download/0.3.0.0-omp3.5/pdfFlipbook-0.3.0.0-omp3.5.tar.gz) | — | — |
+| audioPlayerOmp | OMP | [⬇ 1.0.1.1](https://github.com/OJSBR/audioPlayerOmp/releases/download/1.0.1.1-omp3.5/audioPlayer-1.0.1.1-omp3.5.tar.gz) | — | — |
+| pdfFlipbookOmp | OMP | [⬇ 0.3.0.1](https://github.com/OJSBR/pdfFlipbookOmp/releases/download/0.3.0.1-omp3.5/pdfFlipbook-0.3.0.1-omp3.5.tar.gz) | — | — |
 | keywordCloudClassicBeautiful | OJS | [⬇ 1.0.2.1](https://github.com/OJSBR/keywordCloudClassicBeautiful/releases/download/1.0.2.1/keywordCloudClassicBeautiful-1.0.2.1.tar.gz) | [⬇ 1.0.2.0](https://github.com/OJSBR/keywordCloudClassicBeautiful/releases/download/1.0.2.0-ojs3.4/keywordCloudClassicBeautiful-1.0.2.0-ojs3.4.tar.gz) | — |
 
 > The **latest** package of each plugin is always on its repository's *Releases* page.
