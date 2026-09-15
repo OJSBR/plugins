@@ -11,8 +11,8 @@ For each public, non-fork repository in the organization (minus SKIP_REPOS) it:
   1. lists the plugin's `locale/` directory on the default branch;
   2. if the repository is translatable at all (it has a `locale/` directory),
      requires a European Portuguese locale to be present:
-       - `locale/pt/`      on OJS/OMP 3.4+ default branches (short codes), or
-       - `locale/pt_PT/`   on OJS 3.3 default branches (five-letter codes);
+       - `locale/pt/`      on OJS/OMP 3.5+ default branches (short codes), or
+       - `locale/pt_PT/`   on OJS/OMP 3.3 and 3.4 default branches (the code of those lines);
   3. requires that locale to actually contain a `locale.po` file.
 
 A repository with no `locale/` directory is treated as non-translatable and skipped.
@@ -85,8 +85,8 @@ def main():
             print(f"  – {name}: no locale/ directory (not translatable, skipped)")
             continue
         checked += 1
-        # 3.3 branches use five-letter codes (pt_PT); 3.4+ use the short code (pt).
-        wanted = "pt_PT" if branch.endswith("3_3_0") else "pt"
+        # OJS/OMP 3.3 and 3.4 name it pt_PT; 3.5 renamed it to the short code (pt).
+        wanted = "pt_PT" if branch.endswith(("3_3_0", "3_4_0")) else "pt"
         if wanted not in locales:
             problems.append(f"{name}: missing locale/{wanted}/ on {branch}")
             print(f"  ✗ {name}: missing locale/{wanted}/ (has: {', '.join(sorted(locales))})")
@@ -105,7 +105,7 @@ def main():
             print(f"  - {problem}")
         print(
             "\nEvery translatable OJSBR plugin must ship a European Portuguese locale "
-            "(locale/pt/, or locale/pt_PT/ on OJS 3.3) with a locale.po file."
+            "(locale/pt/, or locale/pt_PT/ on OJS 3.3 and 3.4) with a locale.po file."
         )
         return 1
     print("All translatable plugins ship a European Portuguese locale.")
