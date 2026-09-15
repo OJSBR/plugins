@@ -84,7 +84,7 @@ upload it via **Settings → Website → Plugins → Upload A New Plugin**.
 
 | Plugin | Software | OJS/OMP 3.5 | OJS/OMP 3.4 | OJS 3.3 |
 |--------|----------|-------------|-------------|---------|
-| blindReviewGuard | OJS | [⬇ 1.0.0.0](https://github.com/OJSBR/blindReviewGuard/releases/download/1.0.0.0/blindReviewGuard-1.0.0.0.tar.gz) | — | — |
+| blindReviewGuard | OJS | [⬇ 1.0.1.0](https://github.com/OJSBR/blindReviewGuard/releases/download/1.0.1.0/blindReviewGuard-1.0.1.0.tar.gz) | — | — |
 | coauthorAlert | OJS | [⬇ 1.0.0.0](https://github.com/OJSBR/coauthorAlert/releases/download/1.0.0.0/coauthorAlert-1.0.0.0.tar.gz) | — | — |
 | coAuthorParticipants | OJS | [⬇ 1.0.0.0](https://github.com/OJSBR/coAuthorParticipants/releases/download/1.0.0.0/coAuthorParticipants-1.0.0.0.tar.gz) | — | — |
 | viewcounter | OJS | [⬇ 1.2.0.4](https://github.com/OJSBR/viewcounter/releases/download/1.2.0.4/viewcounter-1.2.0.4.tar.gz) | [⬇ 1.1.0.1](https://github.com/OJSBR/viewcounter/releases/download/1.1.0.1/viewcounter-1.1.0.1.tar.gz) | — |
