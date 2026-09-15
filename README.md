@@ -102,7 +102,7 @@ upload it via **Settings → Website → Plugins → Upload A New Plugin**.
 | classicUserEditor | OJS | [⬇ 1.0.0.3](https://github.com/OJSBR/classicUserEditor/releases/download/1.0.0.3/classicUserEditor-1.0.0.3.tar.gz) | — | — |
 | authorContributorEditor | OJS | [⬇ 1.0.0.1](https://github.com/OJSBR/authorContributorEditor/releases/download/1.0.0.1/authorContributorEditor-1.0.0.1.tar.gz) | — | — |
 | reviewerDirectory | OJS | [⬇ 1.0.0.3](https://github.com/OJSBR/reviewerDirectory/releases/download/1.0.0.3/reviewerDirectory-1.0.0.3.tar.gz) | — | — |
-| controlledVocabSplitter | OJS | [⬇ 1.0.1.0](https://github.com/OJSBR/controlledVocabSplitter/releases/download/1.0.1.0/controlledVocabSplitter-1.0.1.0.tar.gz) | — | — |
+| controlledVocabSplitter | OJS | [⬇ 1.0.1.1](https://github.com/OJSBR/controlledVocabSplitter/releases/download/1.0.1.1/controlledVocabSplitter-1.0.1.1.tar.gz) | — | — |
 | crossrefConference | OJS | [⬇ 1.0.0.1](https://github.com/OJSBR/crossrefConference/releases/download/1.0.0.1/crossrefConference-1.0.0.1.tar.gz) | — | — |
 | languageToggleByFlag | OJS | [⬇ 3.5.0.6](https://github.com/OJSBR/languageToggleByFlag/releases/download/3.5.0.6/languageToggleByFlag-3.5.0.6.tar.gz) | — | — |
 | pln | OJS | [⬇ 4.0.0.3](https://github.com/OJSBR/pln/releases/download/4.0.0.3/pln-4.0.0.3.tar.gz) | — | — |
