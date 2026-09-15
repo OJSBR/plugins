@@ -104,7 +104,7 @@ upload it via **Settings → Website → Plugins → Upload A New Plugin**.
 | reviewerDirectory | OJS | [⬇ 1.0.0.3](https://github.com/OJSBR/reviewerDirectory/releases/download/1.0.0.3/reviewerDirectory-1.0.0.3.tar.gz) | — | — |
 | controlledVocabSplitter | OJS | [⬇ 1.0.1.1](https://github.com/OJSBR/controlledVocabSplitter/releases/download/1.0.1.1/controlledVocabSplitter-1.0.1.1.tar.gz) | — | — |
 | crossrefConference | OJS | [⬇ 1.0.0.1](https://github.com/OJSBR/crossrefConference/releases/download/1.0.0.1/crossrefConference-1.0.0.1.tar.gz) | — | — |
-| languageToggleByFlag | OJS | [⬇ 3.5.0.6](https://github.com/OJSBR/languageToggleByFlag/releases/download/3.5.0.6/languageToggleByFlag-3.5.0.6.tar.gz) | — | — |
+| languageToggleByFlag | OJS | [⬇ 3.5.0.7](https://github.com/OJSBR/languageToggleByFlag/releases/download/3.5.0.7/languageToggleByFlag-3.5.0.7.tar.gz) | — | — |
 | pln | OJS | [⬇ 4.0.0.3](https://github.com/OJSBR/pln/releases/download/4.0.0.3/pln-4.0.0.3.tar.gz) | — | — |
 | shariff | OJS | [⬇ 3.5.1.3](https://github.com/OJSBR/shariff/releases/download/3.5.1.3/shariff-3.5.1.3.tar.gz) | — | — |
 | epubJsViewer | OJS · OPS · OMP | [⬇ 1.2.1.0](https://github.com/OJSBR/epubJsViewer/releases/download/1.2.1.0/epubJsViewer-1.2.1.0.tar.gz) | — | — |
