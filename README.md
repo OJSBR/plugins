@@ -20,7 +20,7 @@ runs elsewhere says so in that column.
 |--------|--------------|------|--------------|--------------|
 | [viewcounter](https://github.com/OJSBR/viewcounter) | OJS | generic | Shows each article's abstract views and downloads on summaries and article pages | 3.4 · 3.5 |
 | [mostRead](https://github.com/OJSBR/mostRead) | OJS | block | Sidebar block with the most-read articles of a time window | 3.4 · 3.5 |
-| [whatsAppContributor](https://github.com/OJSBR/whatsAppContributor) | OJS | generic | Adds a Phone/WhatsApp (E.164) field to the contributor form | 3.4 · 3.5 |
+| [whatsAppContributor](https://github.com/OJSBR/whatsAppContributor) | OJS | generic | Adds a Phone/WhatsApp (E.164) field to the contributor form and, optionally, to user registration; carries the submitter's phone to their authorship | 3.4 · 3.5 |
 | [doiInSummary](https://github.com/OJSBR/doiInSummary) | OJS | generic | Shows the article DOI in the issue summary and journal home page | 3.4 · 3.5 |
 | [ojsbrFilenameRename](https://github.com/OJSBR/ojsbrFilenameRename) | OJS | generic | Delivers submission files under a neutral, standardized name on download, translated into the language of the reader or of the journal (38 languages), or as numbers only | 3.4 · 3.5 |
 | [orcidManualEntry](https://github.com/OJSBR/orcidManualEntry) | OJS | generic | Restores a manual ORCID field (contributor form, user registration and profile) when ORCID OAuth is not configured (authenticated ORCID stays recommended) | 3.5 |
@@ -89,7 +89,7 @@ upload it via **Settings → Website → Plugins → Upload A New Plugin**.
 | coAuthorParticipants | OJS | [⬇ 1.0.0.0](https://github.com/OJSBR/coAuthorParticipants/releases/download/1.0.0.0/coAuthorParticipants-1.0.0.0.tar.gz) | — | — |
 | viewcounter | OJS | [⬇ 1.2.0.4](https://github.com/OJSBR/viewcounter/releases/download/1.2.0.4/viewcounter-1.2.0.4.tar.gz) | [⬇ 1.1.0.1](https://github.com/OJSBR/viewcounter/releases/download/1.1.0.1/viewcounter-1.1.0.1.tar.gz) | — |
 | mostRead | OJS | [⬇ 3.5.0.5](https://github.com/OJSBR/mostRead/releases/download/3.5.0.5/mostRead-3.5.0.5.tar.gz) | [⬇ 3.4.0.3](https://github.com/OJSBR/mostRead/releases/download/3.4.0.3/mostRead-3.4.0.3.tar.gz) | — |
-| whatsAppContributor | OJS | [⬇ 1.1.0.3](https://github.com/OJSBR/whatsAppContributor/releases/download/1.1.0.3/whatsAppContributor-1.1.0.3.tar.gz) | [⬇ 1.0.0.1](https://github.com/OJSBR/whatsAppContributor/releases/download/1.0.0.1/whatsAppContributor-1.0.0.1.tar.gz) | — |
+| whatsAppContributor | OJS | [⬇ 1.2.0.0](https://github.com/OJSBR/whatsAppContributor/releases/download/1.2.0.0/whatsAppContributor-1.2.0.0.tar.gz) | [⬇ 1.2.0.0](https://github.com/OJSBR/whatsAppContributor/releases/download/1.2.0.0-ojs3.4/whatsAppContributor-1.2.0.0-ojs3.4.tar.gz) | — |
 | doiInSummary | OJS | [⬇ 3.5.0.4](https://github.com/OJSBR/doiInSummary/releases/download/3.5.0.4/doiInSummary-3.5.0.4.tar.gz) | [⬇ 3.4.0.2](https://github.com/OJSBR/doiInSummary/releases/download/3.4.0.2/doiInSummary-3.4.0.2.tar.gz) | — |
 | ojsbrFilenameRename | OJS | [⬇ 1.2.0.0](https://github.com/OJSBR/ojsbrFilenameRename/releases/download/1.2.0.0/ojsbrFilenameRename-1.2.0.0.tar.gz) | [⬇ 1.2.0.0](https://github.com/OJSBR/ojsbrFilenameRename/releases/download/1.2.0.0-ojs3.4/ojsbrFilenameRename-1.2.0.0-ojs3.4.tar.gz) | — |
 | orcidManualEntry | OJS | [⬇ 1.1.2.0](https://github.com/OJSBR/orcidManualEntry/releases/download/1.1.2.0/orcidManualEntry-1.1.2.0.tar.gz) | — | — |
