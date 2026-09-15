@@ -109,7 +109,7 @@ upload it via **Settings → Website → Plugins → Upload A New Plugin**.
 | shariff | OJS | [⬇ 3.5.1.3](https://github.com/OJSBR/shariff/releases/download/3.5.1.3/shariff-3.5.1.3.tar.gz) | — | — |
 | epubJsViewer | OJS · OPS · OMP | [⬇ 1.2.0.4](https://github.com/OJSBR/epubJsViewer/releases/download/1.2.0.4/epubJsViewer-1.2.0.4.tar.gz) | — | — |
 | citations | OJS | [⬇ 3.5.0.1](https://github.com/OJSBR/citations/releases/download/3.5.0.1/citations-3.5.0.1.tar.gz) | — | — |
-| ojsbr-webhook | OJS | — | [⬇ 1.0.0.4](https://github.com/OJSBR/ojsbr-webhook/releases/download/1.0.0.4/ojsbrWebhook-1.0.0.4.tar.gz) | — |
+| ojsbr-webhook | OJS | — | [⬇ 1.0.1.0](https://github.com/OJSBR/ojsbr-webhook/releases/download/1.0.1.0/ojsbrWebhook-1.0.1.0.tar.gz) | — |
 | customMetadata | OMP | [⬇ 1.0.0.3](https://github.com/OJSBR/customMetadata/releases/download/1.0.0.3/customMetadata-1.0.0.3.tar.gz) | [⬇ 1.0.0.2](https://github.com/OJSBR/customMetadata/releases/download/1.0.0.2-omp3.4/customMetadata-1.0.0.2-omp3.4.tar.gz) | — |
 | crossref | OMP | [⬇ 1.0.0.4](https://github.com/OJSBR/crossref/releases/download/1.0.0.4/crossref-1.0.0.4.tar.gz) | [⬇ 1.0.0.3](https://github.com/OJSBR/crossref/releases/download/1.0.0.3-omp3.4/crossref-1.0.0.3-omp3.4.tar.gz) | — |
 | assignEditorGeneral | OMP | [⬇ 1.0.0.3](https://github.com/OJSBR/assignEditorGeneral/releases/download/1.0.0.3/assignEditorGeneral-1.0.0.3.tar.gz) | — | — |
