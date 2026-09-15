@@ -105,7 +105,7 @@ upload it via **Settings → Website → Plugins → Upload A New Plugin**.
 | controlledVocabSplitter | OJS | [⬇ 1.0.0.1](https://github.com/OJSBR/controlledVocabSplitter/releases/download/1.0.0.1/controlledVocabSplitter-1.0.0.1.tar.gz) | — | — |
 | crossrefConference | OJS | [⬇ 1.0.0.1](https://github.com/OJSBR/crossrefConference/releases/download/1.0.0.1/crossrefConference-1.0.0.1.tar.gz) | — | — |
 | languageToggleByFlag | OJS | [⬇ 3.5.0.5](https://github.com/OJSBR/languageToggleByFlag/releases/download/3.5.0.5/languageToggleByFlag-3.5.0.5.tar.gz) | — | — |
-| pln | OJS | [⬇ 4.0.0.2](https://github.com/OJSBR/pln/releases/download/4.0.0.2/pln-4.0.0.2.tar.gz) | — | — |
+| pln | OJS | [⬇ 4.0.0.3](https://github.com/OJSBR/pln/releases/download/4.0.0.3/pln-4.0.0.3.tar.gz) | — | — |
 | shariff | OJS | [⬇ 3.5.1.3](https://github.com/OJSBR/shariff/releases/download/3.5.1.3/shariff-3.5.1.3.tar.gz) | — | — |
 | epubJsViewer | OJS · OPS · OMP | [⬇ 1.2.0.4](https://github.com/OJSBR/epubJsViewer/releases/download/1.2.0.4/epubJsViewer-1.2.0.4.tar.gz) | — | — |
 | citations | OJS | [⬇ 3.5.0.1](https://github.com/OJSBR/citations/releases/download/3.5.0.1/citations-3.5.0.1.tar.gz) | — | — |
