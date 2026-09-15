@@ -112,7 +112,7 @@ upload it via **Settings → Website → Plugins → Upload A New Plugin**.
 | ojsbr-webhook | OJS | — | [⬇ 1.0.1.0](https://github.com/OJSBR/ojsbr-webhook/releases/download/1.0.1.0/ojsbrWebhook-1.0.1.0.tar.gz) | — |
 | customMetadata | OMP | [⬇ 1.0.0.3](https://github.com/OJSBR/customMetadata/releases/download/1.0.0.3/customMetadata-1.0.0.3.tar.gz) | [⬇ 1.0.0.2](https://github.com/OJSBR/customMetadata/releases/download/1.0.0.2-omp3.4/customMetadata-1.0.0.2-omp3.4.tar.gz) | — |
 | crossref | OMP | [⬇ 1.0.0.4](https://github.com/OJSBR/crossref/releases/download/1.0.0.4/crossref-1.0.0.4.tar.gz) | [⬇ 1.0.0.3](https://github.com/OJSBR/crossref/releases/download/1.0.0.3-omp3.4/crossref-1.0.0.3-omp3.4.tar.gz) | — |
-| assignEditorGeneral | OMP | [⬇ 1.0.0.3](https://github.com/OJSBR/assignEditorGeneral/releases/download/1.0.0.3/assignEditorGeneral-1.0.0.3.tar.gz) | — | — |
+| assignEditorGeneral | OMP | [⬇ 1.0.1.0](https://github.com/OJSBR/assignEditorGeneral/releases/download/1.0.1.0/assignEditorGeneral-1.0.1.0.tar.gz) | — | — |
 | keywordCloudClassicBeautifulOmp | OMP | [⬇ 1.0.2.1](https://github.com/OJSBR/keywordCloudClassicBeautifulOmp/releases/download/1.0.2.1/keywordCloudClassicBeautiful-1.0.2.1.tar.gz) | — | — |
 | staticEditorialTeamOmp | OMP | [⬇ 1.0.0.2](https://github.com/OJSBR/staticEditorialTeamOmp/releases/download/1.0.0.2/staticEditorialTeam-1.0.0.2.tar.gz) | — | — |
 | classicUserEditorOmp | OMP | [⬇ 1.0.0.2](https://github.com/OJSBR/classicUserEditorOmp/releases/download/1.0.0.2/classicUserEditor-1.0.0.2.tar.gz) | — | — |
