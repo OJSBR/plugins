@@ -36,7 +36,7 @@ runs elsewhere says so in that column.
 | [crossrefConference](https://github.com/OJSBR/crossrefConference) | OJS | generic | Deposits DOIs with Crossref as conference proceedings (`<conference>`/`<conference_paper>`) instead of journal records, as a DOI registration agency: event name, edition number, dates and location, and the proceedings DOI the papers hang off | 3.5 |
 | [articleMetricsBadges](https://github.com/OJSBR/articleMetricsBadges) | OJS | generic | Article-level metric badges from PlumX, Dimensions and Altmetric, each provider and each position (article page, sidebar block) switchable on its own; renders only on articles with a DOI, every provider disabled by default with its terms of use documented | 3.3 · 3.4 · 3.5 |
 | [epubJsViewer](https://github.com/OJSBR/epubJsViewer) | OJS · OPS · OMP | generic | Embedded EPUB galley reader with zoom, table of contents and reading modes, powered by epub.js; continues the `epubViewer` by Lepidus Tecnologia, discontinued in 2025 when its Bibi reading engine stopped being maintained, and never released for 3.5 | 3.5 |
-| [ojsbr-webhook](https://github.com/OJSBR/ojsbr-webhook) | OJS | generic | Sends HTTP webhooks when submissions are created and articles published | 3.4 |
+| [ojsbrWebhook](https://github.com/OJSBR/ojsbrWebhook) | OJS | generic | Sends HTTP webhooks when submissions are created and articles published | 3.4 |
 | [accessibility](https://github.com/OJSBR/accessibility) | OJS · OMP | block | Sidebar accessibility controls for readers: zoom in/out, high-contrast toggle and reset (preferences persist across pages) | 3.3 · 3.4 · 3.5 |
 | [languageToggleByFlag](https://github.com/OJSBR/languageToggleByFlag) | OJS · OPS · OMP | block | Sidebar language switcher with country flags (also works on OMP/OPS); adapted for 3.5 by OJSBR, original by Lepidus Tecnologia | 3.5 |
 | [vlibras](https://github.com/OJSBR/vlibras) | OJS · OMP | block | Embeds the VLibras widget (the Brazilian government's Portuguese→Libras sign-language translator) with its floating avatar | 3.3 · 3.4 · 3.5 |
@@ -103,7 +103,7 @@ upload it via **Settings → Website → Plugins → Upload A New Plugin**.
 | shariff | OJS | [⬇ 3.5.1.3](https://github.com/OJSBR/shariff/releases/download/3.5.1.3/shariff-3.5.1.3.tar.gz) | — | — |
 | epubJsViewer | OJS · OPS · OMP | [⬇ 1.2.1.0](https://github.com/OJSBR/epubJsViewer/releases/download/1.2.1.0/epubJsViewer-1.2.1.0.tar.gz) | — | — |
 | citations | OJS | [⬇ 3.5.0.1](https://github.com/OJSBR/citations/releases/download/3.5.0.1/citations-3.5.0.1.tar.gz) | — | — |
-| ojsbr-webhook | OJS | — | [⬇ 1.1.0.0](https://github.com/OJSBR/ojsbr-webhook/releases/download/1.1.0.0/ojsbrWebhook-1.1.0.0.tar.gz) | — |
+| ojsbrWebhook | OJS | — | [⬇ 1.1.0.0](https://github.com/OJSBR/ojsbrWebhook/releases/download/1.1.0.0/ojsbrWebhook-1.1.0.0.tar.gz) | — |
 | customMetadata | OMP | [⬇ 1.0.1.2](https://github.com/OJSBR/customMetadata/releases/download/1.0.1.2/customMetadata-1.0.1.2.tar.gz) | [⬇ 1.0.1.2](https://github.com/OJSBR/customMetadata/releases/download/1.0.1.2-omp3.4/customMetadata-1.0.1.2-omp3.4.tar.gz) | — |
 | crossref | OMP | [⬇ 1.0.0.7](https://github.com/OJSBR/crossref/releases/download/1.0.0.7/crossref-1.0.0.7.tar.gz) | [⬇ 1.0.0.7](https://github.com/OJSBR/crossref/releases/download/1.0.0.7-omp3.4/crossref-1.0.0.7-omp3.4.tar.gz) | — |
 | assignEditorGeneral | OMP | [⬇ 1.1.0.0](https://github.com/OJSBR/assignEditorGeneral/releases/download/1.1.0.0/assignEditorGeneral-1.1.0.0.tar.gz) | — | — |
