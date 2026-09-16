@@ -19,7 +19,7 @@ runs elsewhere says so in that column.
 | Plugin | Applications | Type | What it does | PKP versions |
 |--------|--------------|------|--------------|--------------|
 | [viewcounter](https://github.com/OJSBR/viewcounter) | OJS | generic | Shows each article's abstract views and downloads on summaries and article pages | 3.4 · 3.5 |
-| [mostRead](https://github.com/OJSBR/mostRead) | OJS | block | Sidebar block with the most-read articles of a time window | 3.4 · 3.5 |
+| [mostRead](https://github.com/OJSBR/mostRead) | OJS · OMP | block | Sidebar block with the most-read articles or books of a time window | 3.4 · 3.5 |
 | [whatsAppContributor](https://github.com/OJSBR/whatsAppContributor) | OJS | generic | Adds a Phone/WhatsApp (E.164) field to the contributor form and, optionally, to user registration; carries the submitter's phone to their authorship | 3.4 · 3.5 |
 | [doiInSummary](https://github.com/OJSBR/doiInSummary) | OJS | generic | Shows the article DOI in the issue summary and journal home page | 3.4 · 3.5 |
 | [ojsbrFilenameRename](https://github.com/OJSBR/ojsbrFilenameRename) | OJS | generic | Delivers submission files under a neutral, standardized name on download, translated into the language of the reader or of the journal (38 languages), or as numbers only | 3.4 · 3.5 |
@@ -58,7 +58,6 @@ runs elsewhere says so in that column.
 | [ojsbrFilenameRenameOmp](https://github.com/OJSBR/ojsbrFilenameRenameOmp) | OMP | generic | Renames the file delivered on download (configurable pattern), without touching the file on disk | 3.5 |
 | [requiredMultilingualMetadata](https://github.com/OJSBR/requiredMultilingualMetadata) | OJS · OMP | generic | Require the title, abstract and keywords in languages beyond the submission language | 3.5 |
 | [reviewerDirectoryOmp](https://github.com/OJSBR/reviewerDirectoryOmp) | OMP | generic | Editor-only directory of reviewers (profiles + review stats) and a per-period or per-series reviewer roster (nominata) | 3.5 |
-| [mostReadOmp](https://github.com/OJSBR/mostReadOmp) | OMP | block | Sidebar block with the most-read books of a time window | 3.5 |
 | [audioPlayer](https://github.com/OJSBR/audioPlayer) | OMP | generic | Turns a book's audio files into a listenable audiobook: play button per file, player bar with in-track seeking, continuous playback, adjustable speed and resume where the listener stopped; serves the file itself with full HTTP Range support, because the core answers `Accept-Ranges: none` | 3.5 |
 | [pdfFlipbook](https://github.com/OJSBR/pdfFlipbook) | OMP | generic | Page-turning (flipbook) reading mode for PDF monographs, beside the native PDF viewer and never replacing it — the flipbook paints to canvas, so it has no text selection or screen-reader access. StPageFlip + PDF.js, vendored | 3.5 |
 
@@ -84,7 +83,7 @@ upload it via **Settings → Website → Plugins → Upload A New Plugin**.
 | coauthorAlert | OJS | [⬇ 1.0.0.0](https://github.com/OJSBR/coauthorAlert/releases/download/1.0.0.0/coauthorAlert-1.0.0.0.tar.gz) | — | — |
 | coAuthorParticipants | OJS | [⬇ 1.0.0.0](https://github.com/OJSBR/coAuthorParticipants/releases/download/1.0.0.0/coAuthorParticipants-1.0.0.0.tar.gz) | — | — |
 | viewcounter | OJS | [⬇ 1.3.0.3](https://github.com/OJSBR/viewcounter/releases/download/1.3.0.3/viewcounter-1.3.0.3.tar.gz) | [⬇ 1.1.1.3](https://github.com/OJSBR/viewcounter/releases/download/1.1.1.3/viewcounter-1.1.1.3.tar.gz) | — |
-| mostRead | OJS | [⬇ 3.5.0.6](https://github.com/OJSBR/mostRead/releases/download/3.5.0.6/mostRead-3.5.0.6.tar.gz) | [⬇ 3.4.0.4](https://github.com/OJSBR/mostRead/releases/download/3.4.0.4/mostRead-3.4.0.4.tar.gz) | — |
+| mostRead | OJS · OMP | [⬇ 3.5.0.7](https://github.com/OJSBR/mostRead/releases/download/3.5.0.7/mostRead-3.5.0.7.tar.gz) | [⬇ 3.4.0.4](https://github.com/OJSBR/mostRead/releases/download/3.4.0.4/mostRead-3.4.0.4.tar.gz) | — |
 | whatsAppContributor | OJS | [⬇ 1.2.0.2](https://github.com/OJSBR/whatsAppContributor/releases/download/1.2.0.2/whatsAppContributor-1.2.0.2.tar.gz) | [⬇ 1.2.0.2](https://github.com/OJSBR/whatsAppContributor/releases/download/1.2.0.2-ojs3.4/whatsAppContributor-1.2.0.2-ojs3.4.tar.gz) | — |
 | doiInSummary | OJS | [⬇ 3.5.0.6](https://github.com/OJSBR/doiInSummary/releases/download/3.5.0.6/doiInSummary-3.5.0.6.tar.gz) | [⬇ 3.4.0.4](https://github.com/OJSBR/doiInSummary/releases/download/3.4.0.4/doiInSummary-3.4.0.4.tar.gz) | — |
 | ojsbrFilenameRename | OJS | [⬇ 1.2.0.1](https://github.com/OJSBR/ojsbrFilenameRename/releases/download/1.2.0.1/ojsbrFilenameRename-1.2.0.1.tar.gz) | [⬇ 1.2.0.1](https://github.com/OJSBR/ojsbrFilenameRename/releases/download/1.2.0.1-ojs3.4/ojsbrFilenameRename-1.2.0.1-ojs3.4.tar.gz) | — |
@@ -114,7 +113,6 @@ upload it via **Settings → Website → Plugins → Upload A New Plugin**.
 | ojsbrFilenameRenameOmp | OMP | [⬇ 1.1.0.3](https://github.com/OJSBR/ojsbrFilenameRenameOmp/releases/download/1.1.0.3/ojsbrFilenameRename-1.1.0.3.tar.gz) | — | — |
 | requiredMultilingualMetadata | OJS · OMP | [⬇ 1.1.1.0](https://github.com/OJSBR/requiredMultilingualMetadata/releases/download/1.1.1.0/requiredMultilingualMetadata-1.1.1.0.tar.gz) | — | — |
 | reviewerDirectoryOmp | OMP | [⬇ 1.0.0.3](https://github.com/OJSBR/reviewerDirectoryOmp/releases/download/1.0.0.3/reviewerDirectory-1.0.0.3.tar.gz) | — | — |
-| mostReadOmp | OMP | [⬇ 3.5.0.4](https://github.com/OJSBR/mostReadOmp/releases/download/3.5.0.4/mostRead-3.5.0.4.tar.gz) | — | — |
 | audioPlayer | OMP | [⬇ 1.0.2.0](https://github.com/OJSBR/audioPlayer/releases/download/1.0.2.0-omp3.5/audioPlayer-1.0.2.0-omp3.5.tar.gz) | — | — |
 | pdfFlipbook | OMP | [⬇ 0.4.0.0](https://github.com/OJSBR/pdfFlipbook/releases/download/0.4.0.0-omp3.5/pdfFlipbook-0.4.0.0-omp3.5.tar.gz) | — | — |
 | keywordCloudClassicBeautiful | OJS · OMP | [⬇ 1.0.3.0](https://github.com/OJSBR/keywordCloudClassicBeautiful/releases/download/1.0.3.0/keywordCloudClassicBeautiful-1.0.3.0.tar.gz) | [⬇ 1.0.3.0](https://github.com/OJSBR/keywordCloudClassicBeautiful/releases/download/1.0.3.0-ojs3.4/keywordCloudClassicBeautiful-1.0.3.0-ojs3.4.tar.gz) | — |
