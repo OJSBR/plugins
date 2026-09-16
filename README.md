@@ -60,7 +60,7 @@ runs elsewhere says so in that column.
 | [controlledVocabSplitterOmp](https://github.com/OJSBR/controlledVocabSplitterOmp) | OMP | generic | Splits keywords, subjects, disciplines and supporting agencies pasted as a single line into separate terms, in the field and on every save | 3.5 |
 | [ojsbrFilenameRenameOmp](https://github.com/OJSBR/ojsbrFilenameRenameOmp) | OMP | generic | Renames the file delivered on download (configurable pattern), without touching the file on disk | 3.5 |
 | [orcidManualEntryOmp](https://github.com/OJSBR/orcidManualEntryOmp) | OMP | generic | Restores a manual ORCID field on the contributor form when ORCID OAuth is not configured (authenticated ORCID stays recommended) | 3.5 |
-| [requiredMultilingualMetadataOmp](https://github.com/OJSBR/requiredMultilingualMetadataOmp) | OMP | generic | Require the title, abstract and keywords in languages beyond the submission language | 3.5 |
+| [requiredMultilingualMetadata](https://github.com/OJSBR/requiredMultilingualMetadata) | OJS · OMP | generic | Require the title, abstract and keywords in languages beyond the submission language | 3.5 |
 | [reviewerDirectoryOmp](https://github.com/OJSBR/reviewerDirectoryOmp) | OMP | generic | Editor-only directory of reviewers (profiles + review stats) and a per-period or per-series reviewer roster (nominata) | 3.5 |
 | [mostReadOmp](https://github.com/OJSBR/mostReadOmp) | OMP | block | Sidebar block with the most-read books of a time window | 3.5 |
 | [audioPlayer](https://github.com/OJSBR/audioPlayer) | OMP | generic | Turns a book's audio files into a listenable audiobook: play button per file, player bar with in-track seeking, continuous playback, adjustable speed and resume where the listener stopped; serves the file itself with full HTTP Range support, because the core answers `Accept-Ranges: none` | 3.5 |
@@ -120,7 +120,7 @@ upload it via **Settings → Website → Plugins → Upload A New Plugin**.
 | controlledVocabSplitterOmp | OMP | [⬇ 1.0.0.1](https://github.com/OJSBR/controlledVocabSplitterOmp/releases/download/1.0.0.1/controlledVocabSplitter-1.0.0.1.tar.gz) | — | — |
 | ojsbrFilenameRenameOmp | OMP | [⬇ 1.1.0.3](https://github.com/OJSBR/ojsbrFilenameRenameOmp/releases/download/1.1.0.3/ojsbrFilenameRename-1.1.0.3.tar.gz) | — | — |
 | orcidManualEntryOmp | OMP | [⬇ 1.0.2.1](https://github.com/OJSBR/orcidManualEntryOmp/releases/download/1.0.2.1/orcidManualEntry-1.0.2.1.tar.gz) | — | — |
-| requiredMultilingualMetadataOmp | OMP | [⬇ 1.1.0.2](https://github.com/OJSBR/requiredMultilingualMetadataOmp/releases/download/1.1.0.2/requiredMultilingualMetadata-1.1.0.2.tar.gz) | — | — |
+| requiredMultilingualMetadata | OJS · OMP | [⬇ 1.1.1.0](https://github.com/OJSBR/requiredMultilingualMetadata/releases/download/1.1.1.0/requiredMultilingualMetadata-1.1.1.0.tar.gz) | — | — |
 | reviewerDirectoryOmp | OMP | [⬇ 1.0.0.3](https://github.com/OJSBR/reviewerDirectoryOmp/releases/download/1.0.0.3/reviewerDirectory-1.0.0.3.tar.gz) | — | — |
 | mostReadOmp | OMP | [⬇ 3.5.0.4](https://github.com/OJSBR/mostReadOmp/releases/download/3.5.0.4/mostRead-3.5.0.4.tar.gz) | — | — |
 | audioPlayer | OMP | [⬇ 1.0.2.0](https://github.com/OJSBR/audioPlayer/releases/download/1.0.2.0-omp3.5/audioPlayer-1.0.2.0-omp3.5.tar.gz) | — | — |
