@@ -104,7 +104,7 @@ upload it via **Settings → Website → Plugins → Upload A New Plugin**.
 | pln | OJS | [⬇ 4.0.0.3](https://github.com/OJSBR/pln/releases/download/4.0.0.3/pln-4.0.0.3.tar.gz) | — | — |
 | shariff | OJS | [⬇ 3.5.1.3](https://github.com/OJSBR/shariff/releases/download/3.5.1.3/shariff-3.5.1.3.tar.gz) | — | — |
 | epubJsViewer | OJS · OPS · OMP | [⬇ 1.2.1.0](https://github.com/OJSBR/epubJsViewer/releases/download/1.2.1.0/epubJsViewer-1.2.1.0.tar.gz) | — | — |
-| citations | OJS | [⬇ 3.5.0.1](https://github.com/OJSBR/citations/releases/download/3.5.0.1/citations-3.5.0.1.tar.gz) | — | — |
+| citations | OJS | [⬇ 3.5.0.2](https://github.com/OJSBR/citations/releases/download/3.5.0.2/citations-3.5.0.2.tar.gz) | — | — |
 | ojsbrWebhook | OJS | — | [⬇ 1.1.0.0](https://github.com/OJSBR/ojsbrWebhook/releases/download/1.1.0.0/ojsbrWebhook-1.1.0.0.tar.gz) | — |
 | ojsbrServices | OJS | [⬇ 1.0.1.0](https://github.com/OJSBR/ojsbrServices/releases/download/1.0.1.0/ojsbrServices-1.0.1.0.tar.gz) | — | — |
 | customMetadata | OMP | [⬇ 1.0.1.2](https://github.com/OJSBR/customMetadata/releases/download/1.0.1.2/customMetadata-1.0.1.2.tar.gz) | [⬇ 1.0.1.2](https://github.com/OJSBR/customMetadata/releases/download/1.0.1.2-omp3.4/customMetadata-1.0.1.2-omp3.4.tar.gz) | — |
