@@ -31,7 +31,7 @@ runs elsewhere says so in that column.
 | [staticEditorialTeam](https://github.com/OJSBR/staticEditorialTeam) | OJS · OMP | generic | Brings back the static Editorial Team page: shows the free-text setting of the journal or press instead of the dynamic masthead listing introduced in 3.5 | 3.5 |
 | [classicUserEditor](https://github.com/OJSBR/classicUserEditor) | OJS | generic | Restores direct editing of users (given name, family name, email and roles) for managers and administrators, alongside the 3.5 invitation manager | 3.5 |
 | [authorContributorEditor](https://github.com/OJSBR/authorContributorEditor) | OJS | generic | Gives authors back the editing of the contributor list of their own submissions when their user group is allowed to edit submission metadata, as in 3.3/3.4 | 3.5 |
-| [reviewerDirectory](https://github.com/OJSBR/reviewerDirectory) | OJS | generic | Editor-only directory of reviewers (profiles + review stats, active-submission IDs, configurable columns, Excel export) and a period/issue reviewer roster (nominata) | 3.5 |
+| [reviewerDirectory](https://github.com/OJSBR/reviewerDirectory) | OJS · OMP | generic | Editor-only directory of reviewers (profiles + review stats, active-submission IDs, configurable columns, Excel export) and a period/issue reviewer roster (nominata) | 3.5 |
 | [controlledVocabSplitter](https://github.com/OJSBR/controlledVocabSplitter) | OJS · OMP | generic | Splits keywords, subjects, disciplines and supporting agencies pasted as a single line into separate terms whenever a publication is saved or imported (semicolon, comma or period; keeps legal references and species initials whole) | 3.5 |
 | [crossrefConference](https://github.com/OJSBR/crossrefConference) | OJS | generic | Deposits DOIs with Crossref as conference proceedings (`<conference>`/`<conference_paper>`) instead of journal records, as a DOI registration agency: event name, edition number, dates and location, and the proceedings DOI the papers hang off | 3.5 |
 | [articleMetricsBadges](https://github.com/OJSBR/articleMetricsBadges) | OJS | generic | Article-level metric badges from PlumX, Dimensions and Altmetric, each provider and each position (article page, sidebar block) switchable on its own; renders only on articles with a DOI, every provider disabled by default with its terms of use documented | 3.3 · 3.4 · 3.5 |
@@ -57,7 +57,6 @@ runs elsewhere says so in that column.
 | [classicUserEditorOmp](https://github.com/OJSBR/classicUserEditorOmp) | OMP | generic | Restores direct editing of users (given name, family name, email and roles) for managers and administrators, alongside the 3.5 invitation manager | 3.5 |
 | [ojsbrFilenameRenameOmp](https://github.com/OJSBR/ojsbrFilenameRenameOmp) | OMP | generic | Renames the file delivered on download (configurable pattern), without touching the file on disk | 3.5 |
 | [requiredMultilingualMetadata](https://github.com/OJSBR/requiredMultilingualMetadata) | OJS · OMP | generic | Require the title, abstract and keywords in languages beyond the submission language | 3.5 |
-| [reviewerDirectoryOmp](https://github.com/OJSBR/reviewerDirectoryOmp) | OMP | generic | Editor-only directory of reviewers (profiles + review stats) and a per-period or per-series reviewer roster (nominata) | 3.5 |
 | [audioPlayer](https://github.com/OJSBR/audioPlayer) | OMP | generic | Turns a book's audio files into a listenable audiobook: play button per file, player bar with in-track seeking, continuous playback, adjustable speed and resume where the listener stopped; serves the file itself with full HTTP Range support, because the core answers `Accept-Ranges: none` | 3.5 |
 | [pdfFlipbook](https://github.com/OJSBR/pdfFlipbook) | OMP | generic | Page-turning (flipbook) reading mode for PDF monographs, beside the native PDF viewer and never replacing it — the flipbook paints to canvas, so it has no text selection or screen-reader access. StPageFlip + PDF.js, vendored | 3.5 |
 
@@ -97,7 +96,7 @@ upload it via **Settings → Website → Plugins → Upload A New Plugin**.
 | staticEditorialTeam | OJS · OMP | [⬇ 1.0.2.0](https://github.com/OJSBR/staticEditorialTeam/releases/download/1.0.2.0/staticEditorialTeam-1.0.2.0.tar.gz) | — | — |
 | classicUserEditor | OJS | [⬇ 1.0.1.0](https://github.com/OJSBR/classicUserEditor/releases/download/1.0.1.0/classicUserEditor-1.0.1.0.tar.gz) | — | — |
 | authorContributorEditor | OJS | [⬇ 1.0.0.2](https://github.com/OJSBR/authorContributorEditor/releases/download/1.0.0.2/authorContributorEditor-1.0.0.2.tar.gz) | — | — |
-| reviewerDirectory | OJS | [⬇ 1.0.1.0](https://github.com/OJSBR/reviewerDirectory/releases/download/1.0.1.0/reviewerDirectory-1.0.1.0.tar.gz) | — | — |
+| reviewerDirectory | OJS · OMP | [⬇ 1.0.2.0](https://github.com/OJSBR/reviewerDirectory/releases/download/1.0.2.0/reviewerDirectory-1.0.2.0.tar.gz) | — | — |
 | controlledVocabSplitter | OJS · OMP | [⬇ 1.0.2.0](https://github.com/OJSBR/controlledVocabSplitter/releases/download/1.0.2.0/controlledVocabSplitter-1.0.2.0.tar.gz) | — | — |
 | crossrefConference | OJS | [⬇ 1.0.0.1](https://github.com/OJSBR/crossrefConference/releases/download/1.0.0.1/crossrefConference-1.0.0.1.tar.gz) | — | — |
 | languageToggleByFlag | OJS | [⬇ 3.5.0.7](https://github.com/OJSBR/languageToggleByFlag/releases/download/3.5.0.7/languageToggleByFlag-3.5.0.7.tar.gz) | — | — |
@@ -112,7 +111,6 @@ upload it via **Settings → Website → Plugins → Upload A New Plugin**.
 | classicUserEditorOmp | OMP | [⬇ 1.0.0.2](https://github.com/OJSBR/classicUserEditorOmp/releases/download/1.0.0.2/classicUserEditor-1.0.0.2.tar.gz) | — | — |
 | ojsbrFilenameRenameOmp | OMP | [⬇ 1.1.0.3](https://github.com/OJSBR/ojsbrFilenameRenameOmp/releases/download/1.1.0.3/ojsbrFilenameRename-1.1.0.3.tar.gz) | — | — |
 | requiredMultilingualMetadata | OJS · OMP | [⬇ 1.1.1.0](https://github.com/OJSBR/requiredMultilingualMetadata/releases/download/1.1.1.0/requiredMultilingualMetadata-1.1.1.0.tar.gz) | — | — |
-| reviewerDirectoryOmp | OMP | [⬇ 1.0.0.3](https://github.com/OJSBR/reviewerDirectoryOmp/releases/download/1.0.0.3/reviewerDirectory-1.0.0.3.tar.gz) | — | — |
 | audioPlayer | OMP | [⬇ 1.0.2.0](https://github.com/OJSBR/audioPlayer/releases/download/1.0.2.0-omp3.5/audioPlayer-1.0.2.0-omp3.5.tar.gz) | — | — |
 | pdfFlipbook | OMP | [⬇ 0.4.0.0](https://github.com/OJSBR/pdfFlipbook/releases/download/0.4.0.0-omp3.5/pdfFlipbook-0.4.0.0-omp3.5.tar.gz) | — | — |
 | keywordCloudClassicBeautiful | OJS · OMP | [⬇ 1.0.3.0](https://github.com/OJSBR/keywordCloudClassicBeautiful/releases/download/1.0.3.0/keywordCloudClassicBeautiful-1.0.3.0.tar.gz) | [⬇ 1.0.3.0](https://github.com/OJSBR/keywordCloudClassicBeautiful/releases/download/1.0.3.0-ojs3.4/keywordCloudClassicBeautiful-1.0.3.0-ojs3.4.tar.gz) | — |
