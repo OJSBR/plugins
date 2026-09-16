@@ -32,7 +32,7 @@ runs elsewhere says so in that column.
 | [classicUserEditor](https://github.com/OJSBR/classicUserEditor) | OJS | generic | Restores direct editing of users (given name, family name, email and roles) for managers and administrators, alongside the 3.5 invitation manager | 3.5 |
 | [authorContributorEditor](https://github.com/OJSBR/authorContributorEditor) | OJS | generic | Gives authors back the editing of the contributor list of their own submissions when their user group is allowed to edit submission metadata, as in 3.3/3.4 | 3.5 |
 | [reviewerDirectory](https://github.com/OJSBR/reviewerDirectory) | OJS | generic | Editor-only directory of reviewers (profiles + review stats, active-submission IDs, configurable columns, Excel export) and a period/issue reviewer roster (nominata) | 3.5 |
-| [controlledVocabSplitter](https://github.com/OJSBR/controlledVocabSplitter) | OJS | generic | Splits keywords, subjects, disciplines and supporting agencies pasted as a single line into separate terms whenever a publication is saved or imported (semicolon, comma or period; keeps legal references and species initials whole) | 3.5 |
+| [controlledVocabSplitter](https://github.com/OJSBR/controlledVocabSplitter) | OJS · OMP | generic | Splits keywords, subjects, disciplines and supporting agencies pasted as a single line into separate terms whenever a publication is saved or imported (semicolon, comma or period; keeps legal references and species initials whole) | 3.5 |
 | [crossrefConference](https://github.com/OJSBR/crossrefConference) | OJS | generic | Deposits DOIs with Crossref as conference proceedings (`<conference>`/`<conference_paper>`) instead of journal records, as a DOI registration agency: event name, edition number, dates and location, and the proceedings DOI the papers hang off | 3.5 |
 | [articleMetricsBadges](https://github.com/OJSBR/articleMetricsBadges) | OJS | generic | Article-level metric badges from PlumX, Dimensions and Altmetric, each provider and each position (article page, sidebar block) switchable on its own; renders only on articles with a DOI, every provider disabled by default with its terms of use documented | 3.3 · 3.4 · 3.5 |
 | [epubJsViewer](https://github.com/OJSBR/epubJsViewer) | OJS · OPS · OMP | generic | Embedded EPUB galley reader with zoom, table of contents and reading modes, powered by epub.js; continues the `epubViewer` by Lepidus Tecnologia, discontinued in 2025 when its Bibi reading engine stopped being maintained, and never released for 3.5 | 3.5 |
@@ -56,7 +56,6 @@ runs elsewhere says so in that column.
 | [assignEditorGeneral](https://github.com/OJSBR/assignEditorGeneral) | OMP | generic | Automatically assigns all active General Editors to each new submission | 3.5 |
 | [staticEditorialTeamOmp](https://github.com/OJSBR/staticEditorialTeamOmp) | OMP | generic | Brings back the static Editorial Team page: shows the press's free-text setting instead of the dynamic masthead listing introduced in 3.5 | 3.5 |
 | [classicUserEditorOmp](https://github.com/OJSBR/classicUserEditorOmp) | OMP | generic | Restores direct editing of users (given name, family name, email and roles) for managers and administrators, alongside the 3.5 invitation manager | 3.5 |
-| [controlledVocabSplitterOmp](https://github.com/OJSBR/controlledVocabSplitterOmp) | OMP | generic | Splits keywords, subjects, disciplines and supporting agencies pasted as a single line into separate terms, in the field and on every save | 3.5 |
 | [ojsbrFilenameRenameOmp](https://github.com/OJSBR/ojsbrFilenameRenameOmp) | OMP | generic | Renames the file delivered on download (configurable pattern), without touching the file on disk | 3.5 |
 | [orcidManualEntryOmp](https://github.com/OJSBR/orcidManualEntryOmp) | OMP | generic | Restores a manual ORCID field on the contributor form when ORCID OAuth is not configured (authenticated ORCID stays recommended) | 3.5 |
 | [requiredMultilingualMetadata](https://github.com/OJSBR/requiredMultilingualMetadata) | OJS · OMP | generic | Require the title, abstract and keywords in languages beyond the submission language | 3.5 |
@@ -102,7 +101,7 @@ upload it via **Settings → Website → Plugins → Upload A New Plugin**.
 | classicUserEditor | OJS | [⬇ 1.0.1.0](https://github.com/OJSBR/classicUserEditor/releases/download/1.0.1.0/classicUserEditor-1.0.1.0.tar.gz) | — | — |
 | authorContributorEditor | OJS | [⬇ 1.0.0.2](https://github.com/OJSBR/authorContributorEditor/releases/download/1.0.0.2/authorContributorEditor-1.0.0.2.tar.gz) | — | — |
 | reviewerDirectory | OJS | [⬇ 1.0.1.0](https://github.com/OJSBR/reviewerDirectory/releases/download/1.0.1.0/reviewerDirectory-1.0.1.0.tar.gz) | — | — |
-| controlledVocabSplitter | OJS | [⬇ 1.0.1.1](https://github.com/OJSBR/controlledVocabSplitter/releases/download/1.0.1.1/controlledVocabSplitter-1.0.1.1.tar.gz) | — | — |
+| controlledVocabSplitter | OJS · OMP | [⬇ 1.0.2.0](https://github.com/OJSBR/controlledVocabSplitter/releases/download/1.0.2.0/controlledVocabSplitter-1.0.2.0.tar.gz) | — | — |
 | crossrefConference | OJS | [⬇ 1.0.0.1](https://github.com/OJSBR/crossrefConference/releases/download/1.0.0.1/crossrefConference-1.0.0.1.tar.gz) | — | — |
 | languageToggleByFlag | OJS | [⬇ 3.5.0.7](https://github.com/OJSBR/languageToggleByFlag/releases/download/3.5.0.7/languageToggleByFlag-3.5.0.7.tar.gz) | — | — |
 | pln | OJS | [⬇ 4.0.0.3](https://github.com/OJSBR/pln/releases/download/4.0.0.3/pln-4.0.0.3.tar.gz) | — | — |
@@ -115,7 +114,6 @@ upload it via **Settings → Website → Plugins → Upload A New Plugin**.
 | assignEditorGeneral | OMP | [⬇ 1.1.0.0](https://github.com/OJSBR/assignEditorGeneral/releases/download/1.1.0.0/assignEditorGeneral-1.1.0.0.tar.gz) | — | — |
 | staticEditorialTeamOmp | OMP | [⬇ 1.0.0.2](https://github.com/OJSBR/staticEditorialTeamOmp/releases/download/1.0.0.2/staticEditorialTeam-1.0.0.2.tar.gz) | — | — |
 | classicUserEditorOmp | OMP | [⬇ 1.0.0.2](https://github.com/OJSBR/classicUserEditorOmp/releases/download/1.0.0.2/classicUserEditor-1.0.0.2.tar.gz) | — | — |
-| controlledVocabSplitterOmp | OMP | [⬇ 1.0.0.1](https://github.com/OJSBR/controlledVocabSplitterOmp/releases/download/1.0.0.1/controlledVocabSplitter-1.0.0.1.tar.gz) | — | — |
 | ojsbrFilenameRenameOmp | OMP | [⬇ 1.1.0.3](https://github.com/OJSBR/ojsbrFilenameRenameOmp/releases/download/1.1.0.3/ojsbrFilenameRename-1.1.0.3.tar.gz) | — | — |
 | orcidManualEntryOmp | OMP | [⬇ 1.0.2.1](https://github.com/OJSBR/orcidManualEntryOmp/releases/download/1.0.2.1/orcidManualEntry-1.0.2.1.tar.gz) | — | — |
 | requiredMultilingualMetadata | OJS · OMP | [⬇ 1.1.1.0](https://github.com/OJSBR/requiredMultilingualMetadata/releases/download/1.1.1.0/requiredMultilingualMetadata-1.1.1.0.tar.gz) | — | — |
