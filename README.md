@@ -80,7 +80,7 @@ upload it via **Settings → Website → Plugins → Upload A New Plugin**.
 |--------|----------|-------------|-------------|---------|
 | blindReviewGuard | OJS | [⬇ 1.0.2.0](https://github.com/OJSBR/blindReviewGuard/releases/download/1.0.2.0/blindReviewGuard-1.0.2.0.tar.gz) | — | — |
 | coauthorAlert | OJS | [⬇ 1.0.1.0](https://github.com/OJSBR/coauthorAlert/releases/download/1.0.1.0/coauthorAlert-1.0.1.0.tar.gz) | — | — |
-| coAuthorParticipants | OJS | [⬇ 1.0.0.0](https://github.com/OJSBR/coAuthorParticipants/releases/download/1.0.0.0/coAuthorParticipants-1.0.0.0.tar.gz) | — | — |
+| coAuthorParticipants | OJS | [⬇ 1.0.1.0](https://github.com/OJSBR/coAuthorParticipants/releases/download/1.0.1.0/coAuthorParticipants-1.0.1.0.tar.gz) | — | — |
 | viewcounter | OJS | [⬇ 1.3.0.3](https://github.com/OJSBR/viewcounter/releases/download/1.3.0.3/viewcounter-1.3.0.3.tar.gz) | [⬇ 1.1.1.3](https://github.com/OJSBR/viewcounter/releases/download/1.1.1.3/viewcounter-1.1.1.3.tar.gz) | — |
 | mostRead | OJS · OMP | [⬇ 3.5.0.7](https://github.com/OJSBR/mostRead/releases/download/3.5.0.7/mostRead-3.5.0.7.tar.gz) | [⬇ 3.4.0.4](https://github.com/OJSBR/mostRead/releases/download/3.4.0.4/mostRead-3.4.0.4.tar.gz) | — |
 | whatsAppContributor | OJS | [⬇ 1.2.0.2](https://github.com/OJSBR/whatsAppContributor/releases/download/1.2.0.2/whatsAppContributor-1.2.0.2.tar.gz) | [⬇ 1.2.0.2](https://github.com/OJSBR/whatsAppContributor/releases/download/1.2.0.2-ojs3.4/whatsAppContributor-1.2.0.2-ojs3.4.tar.gz) | — |
