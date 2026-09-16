@@ -100,7 +100,7 @@ upload it via **Settings → Website → Plugins → Upload A New Plugin**.
 | recommendByAuthor | OJS | [⬇ 2.0.0.2](https://github.com/OJSBR/recommendByAuthor/releases/download/2.0.0.2/recommendByAuthor-2.0.0.2.tar.gz) | — | [⬇ 2.0.0.1](https://github.com/OJSBR/recommendByAuthor/releases/download/2.0.0.1-ojs3.3/recommendByAuthor-2.0.0.1-ojs3.3.tar.gz) |
 | recommendBySimilarity | OJS | [⬇ 2.0.0.2](https://github.com/OJSBR/recommendBySimilarity/releases/download/2.0.0.2/recommendBySimilarity-2.0.0.2.tar.gz) | — | [⬇ 2.0.0.1](https://github.com/OJSBR/recommendBySimilarity/releases/download/2.0.0.1-ojs3.3/recommendBySimilarity-2.0.0.1-ojs3.3.tar.gz) |
 | staticEditorialTeam | OJS | [⬇ 1.0.1.0](https://github.com/OJSBR/staticEditorialTeam/releases/download/1.0.1.0/staticEditorialTeam-1.0.1.0.tar.gz) | — | — |
-| classicUserEditor | OJS | [⬇ 1.0.0.3](https://github.com/OJSBR/classicUserEditor/releases/download/1.0.0.3/classicUserEditor-1.0.0.3.tar.gz) | — | — |
+| classicUserEditor | OJS | [⬇ 1.0.1.0](https://github.com/OJSBR/classicUserEditor/releases/download/1.0.1.0/classicUserEditor-1.0.1.0.tar.gz) | — | — |
 | authorContributorEditor | OJS | [⬇ 1.0.0.2](https://github.com/OJSBR/authorContributorEditor/releases/download/1.0.0.2/authorContributorEditor-1.0.0.2.tar.gz) | — | — |
 | reviewerDirectory | OJS | [⬇ 1.0.1.0](https://github.com/OJSBR/reviewerDirectory/releases/download/1.0.1.0/reviewerDirectory-1.0.1.0.tar.gz) | — | — |
 | controlledVocabSplitter | OJS | [⬇ 1.0.1.1](https://github.com/OJSBR/controlledVocabSplitter/releases/download/1.0.1.1/controlledVocabSplitter-1.0.1.1.tar.gz) | — | — |
