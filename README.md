@@ -60,7 +60,7 @@ runs elsewhere says so in that column.
 | [assignEditorGeneral](https://github.com/OJSBR/assignEditorGeneral) | OMP | generic | Automatically assigns all active General Editors to each new submission | 3.5 |
 | [requiredMultilingualMetadata](https://github.com/OJSBR/requiredMultilingualMetadata) | OJS · OMP | generic | Require the title, abstract and keywords in languages beyond the submission language | 3.5 |
 | [audioPlayer](https://github.com/OJSBR/audioPlayer) | OMP | generic | Turns a book's audio files into a listenable audiobook: play button per file, player bar with in-track seeking, continuous playback, adjustable speed and resume where the listener stopped; serves the file itself with full HTTP Range support, because the core answers `Accept-Ranges: none` | 3.5 |
-| [pdfFlipbook](https://github.com/OJSBR/pdfFlipbook) | OMP | generic | Page-turning (flipbook) reading mode for PDF monographs, beside the native PDF viewer and never replacing it — the flipbook paints to canvas, so it has no text selection or screen-reader access. StPageFlip + PDF.js, vendored | 3.5 |
+| [pdfFlipbook](https://github.com/OJSBR/pdfFlipbook) | OMP | generic | Page-turning (flipbook) reading mode for PDF monographs, beside the native PDF viewer and never replacing it — the flipbook paints to canvas, so it has no text selection or screen-reader access. A press may put the button in place of the PDF link, with or without the PDF label. StPageFlip + PDF.js, vendored | 3.5 |
 
 ## Installing a plugin
 
@@ -116,7 +116,7 @@ upload it via **Settings → Website → Plugins → Upload A New Plugin**.
 | assignEditorGeneral | OMP | [⬇ 1.1.0.0](https://github.com/OJSBR/assignEditorGeneral/releases/download/1.1.0.0/assignEditorGeneral-1.1.0.0.tar.gz) | — | — |
 | requiredMultilingualMetadata | OJS · OMP | [⬇ 1.1.1.0](https://github.com/OJSBR/requiredMultilingualMetadata/releases/download/1.1.1.0/requiredMultilingualMetadata-1.1.1.0.tar.gz) | — | — |
 | audioPlayer | OMP | [⬇ 1.0.2.0](https://github.com/OJSBR/audioPlayer/releases/download/1.0.2.0-omp3.5/audioPlayer-1.0.2.0-omp3.5.tar.gz) | — | — |
-| pdfFlipbook | OMP | [⬇ 0.4.0.0](https://github.com/OJSBR/pdfFlipbook/releases/download/0.4.0.0-omp3.5/pdfFlipbook-0.4.0.0-omp3.5.tar.gz) | — | — |
+| pdfFlipbook | OMP | [⬇ 0.5.0.0](https://github.com/OJSBR/pdfFlipbook/releases/download/0.5.0.0-omp3.5/pdfFlipbook-0.5.0.0-omp3.5.tar.gz) | — | — |
 | keywordCloudClassicBeautiful | OJS · OMP | [⬇ 1.0.3.0](https://github.com/OJSBR/keywordCloudClassicBeautiful/releases/download/1.0.3.0/keywordCloudClassicBeautiful-1.0.3.0.tar.gz) | [⬇ 1.0.3.0](https://github.com/OJSBR/keywordCloudClassicBeautiful/releases/download/1.0.3.0-ojs3.4/keywordCloudClassicBeautiful-1.0.3.0-ojs3.4.tar.gz) | — |
 
 > The **latest** package of each plugin is always on its repository's *Releases* page.
