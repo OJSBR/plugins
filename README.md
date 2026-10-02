@@ -114,7 +114,7 @@ upload it via **Settings → Website → Plugins → Upload A New Plugin**.
 | ojsbrWebhook | OJS | — | [⬇ 1.1.0.0](https://github.com/OJSBR/ojsbrWebhook/releases/download/1.1.0.0/ojsbrWebhook-1.1.0.0.tar.gz) | — |
 | ojsbrServices | OJS | [⬇ 1.0.1.0](https://github.com/OJSBR/ojsbrServices/releases/download/1.0.1.0/ojsbrServices-1.0.1.0.tar.gz) | — | — |
 | customMetadata | OMP | [⬇ 1.0.1.2](https://github.com/OJSBR/customMetadata/releases/download/1.0.1.2/customMetadata-1.0.1.2.tar.gz) | [⬇ 1.0.1.2](https://github.com/OJSBR/customMetadata/releases/download/1.0.1.2-omp3.4/customMetadata-1.0.1.2-omp3.4.tar.gz) | — |
-| crossref | OMP | [⬇ 1.0.0.7](https://github.com/OJSBR/crossref/releases/download/1.0.0.7/crossref-1.0.0.7.tar.gz) | [⬇ 1.0.0.7](https://github.com/OJSBR/crossref/releases/download/1.0.0.7-omp3.4/crossref-1.0.0.7-omp3.4.tar.gz) | — |
+| crossref | OMP | [⬇ 1.0.0.8](https://github.com/OJSBR/crossref/releases/download/1.0.0.8/crossref-1.0.0.8.tar.gz) | [⬇ 1.0.0.8](https://github.com/OJSBR/crossref/releases/download/1.0.0.8-omp3.4/crossref-1.0.0.8-omp3.4.tar.gz) | — |
 | assignEditorGeneral | OMP | [⬇ 1.1.0.0](https://github.com/OJSBR/assignEditorGeneral/releases/download/1.1.0.0/assignEditorGeneral-1.1.0.0.tar.gz) | — | — |
 | requiredMultilingualMetadata | OJS · OMP | [⬇ 1.1.1.0](https://github.com/OJSBR/requiredMultilingualMetadata/releases/download/1.1.1.0/requiredMultilingualMetadata-1.1.1.0.tar.gz) | — | — |
 | audioPlayer | OMP | [⬇ 1.0.2.0](https://github.com/OJSBR/audioPlayer/releases/download/1.0.2.0-omp3.5/audioPlayer-1.0.2.0-omp3.5.tar.gz) | — | — |
