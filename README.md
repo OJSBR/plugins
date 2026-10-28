@@ -25,6 +25,7 @@ runs elsewhere says so in that column.
 | [visitorMap](https://github.com/OJSBR/visitorMap) | OJS · OMP | block | Sidebar block with a world map of where the accesses to the journal or press come from, built from the platform's own usage statistics — no third-party tracking | 3.5 |
 | [ojsbrTestBanner](https://github.com/OJSBR/ojsbrTestBanner) | OJS | generic | Site-wide fixed red band on every page of a test or staging installation (site, journals and back end), with a message set per language by the site administrator; galley viewers are left alone | 3.5 |
 | [doiInSummary](https://github.com/OJSBR/doiInSummary) | OJS · OPS · OMP | generic | Shows the DOI of each article, preprint or book in the lists readers browse: issue tables of contents, lists of preprints, the catalogue, home pages and search results | 3.4 (OJS) · 3.5 |
+| [customMetadata](https://github.com/OJSBR/customMetadata) | OJS · OMP | generic | Configurable extra metadata fields on the publication Metadata tab, each one editable by the authors too or by the editors only | 3.4 (OMP) · 3.5 |
 | [ojsbrFilenameRename](https://github.com/OJSBR/ojsbrFilenameRename) | OJS · OMP | generic | Delivers submission files under a neutral, standardized name on download, translated into the language of the reader or of the journal (38 languages), or as numbers only | 3.4 · 3.5 |
 | [orcidManualEntry](https://github.com/OJSBR/orcidManualEntry) | OJS · OMP | generic | Restores a manual ORCID field (contributor form, user registration and profile) when ORCID OAuth is not configured (authenticated ORCID stays recommended) | 3.5 |
 | [requiredAuthorMetadata](https://github.com/OJSBR/requiredAuthorMetadata) | OJS · OMP | generic | Lets the journal require the family name, the affiliation and the biography of every contributor of a submission, each one on its own, and refuse to complete the submission while any of them is missing; journal managers and section editors can be exempt | 3.5 |
@@ -59,7 +60,6 @@ runs elsewhere says so in that column.
 
 | Plugin | Applications | Type | What it does | PKP versions |
 |--------|--------------|------|--------------|--------------|
-| [customMetadata](https://github.com/OJSBR/customMetadata) | OMP | generic | Configurable extra metadata fields on the publication Metadata tab | 3.4 · 3.5 |
 | [crossref](https://github.com/OJSBR/crossref) | OMP | generic | Crossref DOI registration/export for monographs and chapters (fills a gap OMP core lacks) | 3.4 · 3.5 |
 | [assignEditorGeneral](https://github.com/OJSBR/assignEditorGeneral) | OMP | generic | Automatically assigns all active General Editors to each new submission | 3.5 |
 | [requiredMultilingualMetadata](https://github.com/OJSBR/requiredMultilingualMetadata) | OJS · OMP | generic | Require the title, abstract and keywords in languages beyond the submission language | 3.5 |
@@ -119,7 +119,7 @@ upload it via **Settings → Website → Plugins → Upload A New Plugin**.
 | citations | OJS | [⬇ 3.5.0.2](https://github.com/OJSBR/citations/releases/download/3.5.0.2/citations-3.5.0.2.tar.gz) | — | — |
 | ojsbrWebhook | OJS | — | [⬇ 1.1.0.0](https://github.com/OJSBR/ojsbrWebhook/releases/download/1.1.0.0/ojsbrWebhook-1.1.0.0.tar.gz) | — |
 | ojsbrServices | OJS | [⬇ 1.0.1.0](https://github.com/OJSBR/ojsbrServices/releases/download/1.0.1.0/ojsbrServices-1.0.1.0.tar.gz) | — | — |
-| customMetadata | OMP | [⬇ 1.0.1.2](https://github.com/OJSBR/customMetadata/releases/download/1.0.1.2/customMetadata-1.0.1.2.tar.gz) | [⬇ 1.0.1.2](https://github.com/OJSBR/customMetadata/releases/download/1.0.1.2-omp3.4/customMetadata-1.0.1.2-omp3.4.tar.gz) | — |
+| customMetadata | OJS · OMP | [⬇ 1.1.0.0](https://github.com/OJSBR/customMetadata/releases/download/1.1.0.0/customMetadata-1.1.0.0.tar.gz) | [⬇ 1.0.1.2](https://github.com/OJSBR/customMetadata/releases/download/1.0.1.2-omp3.4/customMetadata-1.0.1.2-omp3.4.tar.gz) | — |
 | crossref | OMP | [⬇ 1.0.0.8](https://github.com/OJSBR/crossref/releases/download/1.0.0.8/crossref-1.0.0.8.tar.gz) | [⬇ 1.0.0.8](https://github.com/OJSBR/crossref/releases/download/1.0.0.8-omp3.4/crossref-1.0.0.8-omp3.4.tar.gz) | — |
 | assignEditorGeneral | OMP | [⬇ 1.1.0.0](https://github.com/OJSBR/assignEditorGeneral/releases/download/1.1.0.0/assignEditorGeneral-1.1.0.0.tar.gz) | — | — |
 | requiredMultilingualMetadata | OJS · OMP | [⬇ 1.1.1.0](https://github.com/OJSBR/requiredMultilingualMetadata/releases/download/1.1.1.0/requiredMultilingualMetadata-1.1.1.0.tar.gz) | — | — |
