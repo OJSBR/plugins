@@ -62,6 +62,7 @@ runs elsewhere says so in that column.
 |--------|--------------|------|--------------|--------------|
 | [crossref](https://github.com/OJSBR/crossref) | OMP | generic | Crossref DOI registration/export for monographs and chapters (fills a gap OMP core lacks) | 3.4 · 3.5 |
 | [assignEditorGeneral](https://github.com/OJSBR/assignEditorGeneral) | OMP | generic | Automatically assigns all active General Editors to each new submission | 3.5 |
+| [quickSubmitOmp](https://github.com/OJSBR/quickSubmitOmp) | OMP | generic | Quick submission of a whole book on one page — chapters with their PDF and final formats, approved, open and published at once; in edited volumes the book metadata (Google Scholar, Dublin Core, OAI, ONIX) names the volume editors only | 3.5 |
 | [requiredMultilingualMetadata](https://github.com/OJSBR/requiredMultilingualMetadata) | OJS · OMP | generic | Require the title, abstract and keywords in languages beyond the submission language | 3.5 |
 | [audioPlayer](https://github.com/OJSBR/audioPlayer) | OMP | generic | Turns a book's audio files into a listenable audiobook: play button per file, player bar with in-track seeking, continuous playback, adjustable speed and resume where the listener stopped; serves the file itself with full HTTP Range support, because the core answers `Accept-Ranges: none` | 3.5 |
 | [pdfFlipbook](https://github.com/OJSBR/pdfFlipbook) | OMP | generic | Page-turning (flipbook) reading mode for PDF monographs, beside the native PDF viewer and never replacing it — the flipbook paints to canvas, so it has no text selection or screen-reader access. A press may put the button in place of the PDF link, with or without the PDF label. StPageFlip + PDF.js, vendored | 3.5 |
@@ -122,6 +123,7 @@ upload it via **Settings → Website → Plugins → Upload A New Plugin**.
 | customMetadata | OJS · OMP | [⬇ 1.1.0.0](https://github.com/OJSBR/customMetadata/releases/download/1.1.0.0/customMetadata-1.1.0.0.tar.gz) | [⬇ 1.0.1.2](https://github.com/OJSBR/customMetadata/releases/download/1.0.1.2-omp3.4/customMetadata-1.0.1.2-omp3.4.tar.gz) | — |
 | crossref | OMP | [⬇ 1.0.0.8](https://github.com/OJSBR/crossref/releases/download/1.0.0.8/crossref-1.0.0.8.tar.gz) | [⬇ 1.0.0.8](https://github.com/OJSBR/crossref/releases/download/1.0.0.8-omp3.4/crossref-1.0.0.8-omp3.4.tar.gz) | — |
 | assignEditorGeneral | OMP | [⬇ 1.1.0.0](https://github.com/OJSBR/assignEditorGeneral/releases/download/1.1.0.0/assignEditorGeneral-1.1.0.0.tar.gz) | — | — |
+| quickSubmitOmp | OMP | [⬇ 1.0.0.0](https://github.com/OJSBR/quickSubmitOmp/releases/download/1.0.0.0/quickSubmitOmp-1.0.0.0.tar.gz) | — | — |
 | requiredMultilingualMetadata | OJS · OMP | [⬇ 1.1.1.0](https://github.com/OJSBR/requiredMultilingualMetadata/releases/download/1.1.1.0/requiredMultilingualMetadata-1.1.1.0.tar.gz) | — | — |
 | audioPlayer | OMP | [⬇ 1.0.2.0](https://github.com/OJSBR/audioPlayer/releases/download/1.0.2.0-omp3.5/audioPlayer-1.0.2.0-omp3.5.tar.gz) | — | — |
 | pdfFlipbook | OMP | [⬇ 0.5.0.0](https://github.com/OJSBR/pdfFlipbook/releases/download/0.5.0.0-omp3.5/pdfFlipbook-0.5.0.0-omp3.5.tar.gz) | — | — |
